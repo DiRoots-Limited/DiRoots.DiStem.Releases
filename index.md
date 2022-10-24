@@ -8,7 +8,7 @@ permalink: /
 
 # DiStem | Autodesk Revit Plugin.
 
-![ProSheets Logo](/assets/images/ProSheets-Icon-150x150-1.png)
+![DiStem Logo](/assets/images/DiStem-Logo.png)
 
 ProSheets is a free Autodesk Revit Add-in to export Views and Sheets to PDF, DWG, DGN, DWF, NWC, IFC, and IMG (JPEG, PNG, TIFF).
 
