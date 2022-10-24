@@ -7,7 +7,8 @@ nav_order: 2
 # Getting Started
 {: .no_toc }
 
-ProSheets is 100% free for personal and commercial usage, regardless of the number of users. 
+You can try DiStem for free during 15 days. To buy licenses for DiStem please contact our [Sales Team](mailto:sales@diroots.com). 
+
 Not permitted:
 -	Sell/resell
 -	make modifications to the software.
@@ -23,7 +24,7 @@ Not permitted:
 
 ## Download
 
-Download the [latest version of ProSheets](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).
+Download the [latest version of DiStem](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).
 
 
 ## Install
