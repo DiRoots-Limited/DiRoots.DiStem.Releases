@@ -8,16 +8,18 @@ permalink: /
 
 # DiStem | Autodesk Revit Plugin.
 
-![DiStem Logo](/assets/images/DiStem-Logo.png)
+![DiStem Logo](/assets/images/DiStem-Logo-Dark-Orange_w300.png)
 
-ProSheets is a free Autodesk Revit Add-in to export Views and Sheets to PDF, DWG, DGN, DWF, NWC, IFC, and IMG (JPEG, PNG, TIFF).
+DiStem bundle for Autodesk Revit contains several to Revit add-ins to boost your productivity. This bundle will help you to manage your BIM model data (parameters, links and imports, etc.), clean up the model, transfer project standards, measure distances, get elements coordinates, and export to glTF file format. 
 
-## Core Features
+## Included Autodesk Revit Plugins
 
-- Batch Export Sheets/Views to PDF, DWG, DGN, DWF, NWC, IFC, and IMG (JPEG, PNG, TIFF)
-- Auto dectection of paper size and orientation (based on the Title Block family Sheet Width and Height)
-- Custom Parametric Filename (e.g., Sheet Name + Sheet Number + Revision Number). Plus: custom parameters and separators.
-- Save the export settings to Profiles
-- Import Profiles from a any location (e.g., shared folder, network location, etc.)
+- Properties Extractor and Mapping Tool
+- 2D & 3D Measure Tool
+- Model Cleanup tool (coming soon)
+- Parameters Mapping (Coming Soon)
+- CAD Manager (Coming Soon)
+- Transfer Project Standards (Coming Soon)
+- glTF Exporter (Coming Soon)
 
-[Download](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/){: .btn .btn-di-orange }
+[Download](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/){: .btn .btn-di-orange }
