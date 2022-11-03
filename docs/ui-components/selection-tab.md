@@ -1,13 +1,20 @@
 ---
 layout: default
-title: Selection Tab
+title: Properties Extraction & Mapping Tool
 parent: User Guide
 nav_order: 1
 ---
 
-# Selection Tab
+# Properties Extraction & Mapping Tool
 {: .no_toc }
-The Selection tab is where you'll select the sheets and views to be exported and the file naming rules. ProSheets has options to sort, filter, and search to ease the selection. Plus, it has an advanced naming rule builder that allows you to customize the filenames.
+The Properties Extraction and Mapping Tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.
+
+## Core Features
+- Extract inaccessible properties/parameters from the model elements and inject them into new or existing instance shared parameters
+- Find the hidden properties/parameters in whole model, current view or current selection
+- Find the hidden properties/parameters by category/subcategory
+- Support properties/parameters: Location Points (Project Base Point, Revit Internal Origin, Survey Point)
+
 ## Table of contents
 {: .no_toc .text-delta }
 
