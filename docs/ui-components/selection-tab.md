@@ -10,6 +10,7 @@ nav_order: 1
 The Properties Extraction and Mapping Tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.
 
 ## Core Features
+{: .no_toc }
 - Extract inaccessible properties/parameters from the model elements and inject them into new or existing instance shared parameters
 - Find the hidden properties/parameters in whole model, current view or current selection
 - Find the hidden properties/parameters by category/subcategory
