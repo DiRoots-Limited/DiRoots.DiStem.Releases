@@ -47,11 +47,6 @@ Steps:
 
 1. Click radio buttons to collect the elemnts from the Whole Model, Active View, or Current Selection. 
 
-```yaml
-The 'Sheets' radio button will show the existing sheets in the project.  
-The 'Views' radio button will show the existing views in the project.  
-```
-
 2. Use the checkboxes from the tree view to select specific categories/subcategories or use the checkbox in the table header to select all categories/subcategories.
 
 ![ProSheets Selecting Revit Sheets and Views](../../assets/images/GIFs/Selection/selecting-sheets.gif)  
@@ -63,22 +58,23 @@ The 'Views' radio button will show the existing views in the project.
 
 ---
 
-## Sort, Filter and Search
+## Map & Extract tab
 
-ProSheets has options to sort, filter, and search to ease the selection.
+Use this tab to map and extract the properties/parameters into new or existing shared instance parameters.
 
-### Sort
+### Select and Map the parameters
 
-Click on the table headers to sort the views/sheets by one of the available parameters.  
+1. Use the checkboxes from the table view to select specific properties/parameters to be mapped.  
 
+2. Select the type of parameter you want to create (default or text).  
 
-```yaml
-# Note:  
-The 5th column in sheet list contains a dropdown that allows you select to any other instance parameter available on your sheets.  
-Examples - Current Review Date, Approved By, Appears on Sheet List, etc. 
-The default is Orientation.
-```
-  
+3. Select the 'Group Under'. The default value is 'Other'.
+
+4. Select the destination parameter or create new parameter on the fly.
+    * use the dropdown list to select any shared instance parameter available in the model.
+    * to create a new parameter, use the '+' button, name the parameter and then click on the save button.  
+      
+5. Click on the 'Map & Extract' button to extract and inject the values in the target parameters.
 
 ![ProSheets Sorting Revit Sheets and Views](../../assets/images/GIFs/Selection/sorting-sheets.gif)  
 <sub>Note: the version on the image may not reflect the [latest version of ProSheets](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
