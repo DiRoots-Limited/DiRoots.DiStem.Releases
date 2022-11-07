@@ -43,14 +43,15 @@ This tool comes with a variety of features to help you to quickly select the pro
 - By property/parameter type (e.g., all location properties) and name (e.g., Location Point - XYZ coordinates) using the tree view.
 - Search bar
 
-Steps:
+### Step by step:  
+
+![DiStem Selecting Categories and Properties/Parameters to map and extract](../../assets/images/DiStem-Selection-Tab.png)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
 
 1. Click radio buttons to collect the elemnts from the Whole Model, Active View, or Current Selection. 
 
 2. Use the checkboxes from the tree view to select specific categories/subcategories or use the checkbox in the table header to select all categories/subcategories.
-
-![ProSheets Selecting Revit Sheets and Views](../../assets/images/GIFs/Selection/selecting-sheets.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of ProSheets](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
 
 3. Use the checkboxes from the tree view to select specific properties/parameters to be mapped.
 
@@ -58,11 +59,15 @@ Steps:
 
 ---
 
-## Map & Extract tab
+## Create Parameters tab
 
 Use this tab to map and extract the properties/parameters into new or existing shared instance parameters.
 
-### Select and Map the parameters
+### Step by step:  
+
+![DiStem Selecting Categories and Properties/Parameters to map and extract](../../assets/images/DiStem-Create-Parameters-Tab.png)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
 
 1. Use the checkboxes from the table view to select specific properties/parameters to be mapped.  
 
@@ -70,17 +75,18 @@ Use this tab to map and extract the properties/parameters into new or existing s
 
 3. Select the 'Group Under'. The default value is 'Other'.
 
+```yaml
+Remarks:
+By selecting text you can also set the units and rounding in the bottom-left of the window. 
+```
+
 4. Select the destination parameter or create new parameter on the fly.
     * use the dropdown list to select any shared instance parameter available in the model.
     * to create a new parameter, use the '+' button, name the parameter and then click on the save button.  
       
-5. Click on the 'Map & Extract' button to extract and inject the values in the target parameters.
+5. Click on the 'Extract' button to extract and inject the values in the target parameters.
 
-![ProSheets Sorting Revit Sheets and Views](../../assets/images/GIFs/Selection/sorting-sheets.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of ProSheets](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
-
-
-### Filter
+### Supported Properties/Parameters
 
 Filtering options available:
 1. Radio button to switch between sheets and views
