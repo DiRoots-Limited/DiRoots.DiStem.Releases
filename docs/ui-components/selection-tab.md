@@ -5,6 +5,9 @@ parent: User Guide
 nav_order: 1
 ---
 
+![DiStem Parameter Extractor Tool - Selecting Categories and Properties/Parameters to map and extract](../../assets/images/ParameterExtractor/Parameter-Extractor-Ribbon-Icon_x150.png)  
+
+
 # Properties Extraction & Mapping Tool
 {: .no_toc }
 The Properties Extraction and Mapping Tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.
@@ -45,7 +48,7 @@ This tool comes with a variety of features to help you to quickly select the pro
 
 ### Step by step 
 
-![DiStem Selecting Categories and Properties/Parameters to map and extract](../../assets/images/DiStem-Selection-Tab.png)  
+![DiStem Parameter Extractor Tool - Selecting Categories and Properties/Parameters to map and extract](../../assets/images/ParameterExtractor/Parameter-Extractor-Selection-Tab.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -65,7 +68,7 @@ Use this tab to map and extract the properties/parameters into new or existing s
 
 ### Step by step
 
-![DiStem Selecting Categories and Properties/Parameters to map and extract](../../assets/images/DiStem-Create-Parameters-Tab.png)  
+![DiStem Parameter Extractor Tool - Selecting Categories and Properties/Parameters to map and extract](../../assets/images/ParameterExtractor/Parameter-Extractor-Create-Parameters-Tab.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -134,7 +137,7 @@ The profiles feature make it easy to save your settings and reuse them later. It
 
 Steps:
 
-![DiStem Parameter Extractor Tool Creating profiles](../../assets/images/Parameter-Extractor-Create-Profiles.png)  
+![DiStem Parameter Extractor Tool Creating profiles](../../assets/images/ParameterExtractor/Parameter-Extractor-Create-Profiles.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -147,7 +150,7 @@ The profiles feature make it easy to import existing profiles (e.g., profiles fr
 
 Steps:
 
-![DiStem Parameter Extractor Tool Importing profiles](../../assets/images/Parameter-Extractor-Import-Profiles.png)  
+![DiStem Parameter Extractor Tool Importing profiles](../../assets/images/ParameterExtractor/Parameter-Extractor-Import-Profiles.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -161,7 +164,7 @@ The profiles feature make it easy to export your current list of profiles.
 
 Steps:
 
-![DiStem Parameter Extractor Tool Exporting profiles](../../assets/images/Parameter-Extractor-Export-Profiles.png)  
+![DiStem Parameter Extractor Tool Exporting profiles](../../assets/images/ParameterExtractor/Parameter-Extractor-Export-Profiles.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -172,11 +175,11 @@ Steps:
 
 Steps:
 
-![DiStem Parameter Extractor Tool Deleting profiles](../../assets/images/Parameter-Extractor-Delete-Profiles.png)  
+![DiStem Parameter Extractor Tool Deleting profiles](../../assets/images/ParameterExtractor/Parameter-Extractor-Delete-Profiles.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
 2. Click on the dustbin icon next to the profile you want to delete from the list.
-3. Confirm.
+3. Click 'Yes' to confirm and delete the profile.
 
 ---
