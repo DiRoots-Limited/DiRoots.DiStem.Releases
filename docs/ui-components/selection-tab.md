@@ -24,7 +24,7 @@ The Properties Extraction and Mapping Tool allows you to quickly extract hidden 
 
 ---
 
-## Select properties/parameters tab
+## 'Select Parameters' tab
 
 Use this tab to select the properties/parameters to be mapped.
 
@@ -43,7 +43,7 @@ This tool comes with a variety of features to help you to quickly select the pro
 - By property/parameter type (e.g., all location properties) and name (e.g., Location Point - XYZ coordinates) using the tree view.
 - Search bar
 
-### Step by step:  
+### Step by step 
 
 ![DiStem Selecting Categories and Properties/Parameters to map and extract](../../assets/images/DiStem-Selection-Tab.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
@@ -59,11 +59,11 @@ This tool comes with a variety of features to help you to quickly select the pro
 
 ---
 
-## Create Parameters tab
+## 'Create Parameters' tab
 
 Use this tab to map and extract the properties/parameters into new or existing shared instance parameters.
 
-### Step by step:  
+### Step by step
 
 ![DiStem Selecting Categories and Properties/Parameters to map and extract](../../assets/images/DiStem-Create-Parameters-Tab.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
@@ -86,56 +86,97 @@ By selecting text you can also set the units and rounding in the bottom-left of 
       
 5. Click on the 'Extract' button to extract and inject the values in the target parameters.
 
-### Supported Properties/Parameters
+## Supported Properties/Parameters
 
-Filtering options available:
-1. Radio button to switch between sheets and views
-2. Dropdown to filter by view type (e.g., 3D, Floor Plan, Section, Detail, etc.)
-3. Dropdown with checkboxes to filter by view/sheet sets.
+Properties/parameters available:
+-  Location Points
+    - **Bounding Box Coordinates:** retrieves specific coordinates for the points of the box that circumscribes all geometry of the model element.
+    - **Point-based Family Instance:** retrieves the location point coordinates (XYZ), which is also the insertion point of the family.
+    - **Line-based Family Instance:** retrieves the location point coordinates from specific points in the insertion line of a family instance like pipes, etc.
 
-![ProSheets Sorting Revit Sheets and Views](../../assets/images/GIFs/Selection/filtering-sheets.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of ProSheets](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
+```yaml
+Remarks:
+The 'Bounding Box Coordinates' property returns a bounding box parallel to the cardinal coordinate axes in a project space. So, it does not correspond to the element’s coordinate system and is not necessarily the smallest circumscribing box possible, as the smallest box is not necessarily aligned with the cardinal axes.
+```
 
-### Search
+- **Connectors:** retrieves the location point coordinates for the connectors associated with the model elements.
 
-The search box will search for text contained in any of the existing columns (including the customizable column).  
-  
----
+- **Other parameters/properties:**  
+    - **Element ID:** retrieves a value that is used as a unique identifier for an element within a single project.
+    - **GUID:** retrieves a Revit element's UniqueId, which is used to identify it universally, not only within a single project.
+    - **Flipped Face Orientation:** returns a yes/no value as per the face orientation of the families. 
+    - **Flipped Hand Orientation:** returns a yes/no value as per the hand orientation of the families. 
+    - **Mirrored:** returns a yes/no value as per the mirror status of the family. 
+    - **Flipped Orientation:** returns a yes/no value as per the orientation status of the wall. 
 
-For example, you can find Sheets by:
-- Sheet Number
-- Sheet Name
-- Revision
-- Size (e.g., A1, A0, etc.)
-- Any instance parameter available in the customizable column
-- Custom filename
+```yaml
+Remarks:
+The 'Flipped Face Orientation', 'Flipped Hand Orientation', and 'Mirrored' properties are useful for objects like doors and windows for determining the handle/swing direction.
+```
 
----
+- **Fabrication Parameters/Properties:** retrieves some common useful hidden parameters related to the dimensions of the fabrication part. Some examples, include:
+    - Diameter(Hanger Rod/Pipe etc.)
+    - Rod Extn 
+    - Left/Right Extensions
+    - And multiple other similar useful parameters.
 
-For example, you can find Views by:
-- View Name
-- Scale
-- Detail Level
-- Discipline
-- Custom filename
+## Profiles
 
-![ProSheets Searching for Revit Sheets and Views](../../assets/images/GIFs/Selection/searching.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of ProSheets](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
+### What's saved in the profile
 
----
+The following settings are saved in the profiles.
+- The selection in the 'Select Parameters' tab
+- The mapping set up in the 'Create Parameters' tab
 
-## Naming Rules
+### Create Profiles
 
-The custom filename builder allows you to quickly set how you want your files to be named.
+The profiles feature make it easy to save your settings and reuse them later. It is also a handy way for BIM Managers to create standard rules and share them across the organization.
 
-Main features:
-- Parametric filenaming (using Sheet/View and Project Information parameters)
-- Set generic field separator (e.g., SheetName-ShetNumber)
-- Set custom fields Separators (e.g., SheetName-ShetNumber_Rev1)
-- Custom static fields  (e.g., SheetName-ShetNumber-MyStaticField)
-- Other non-Revit parameters (e.g., Current Month, Day, Hour, etc.)
+Steps:
 
-![ProSheets building a custom filename with Revit parameters and custom parameters](../../assets/images/GIFs/Selection/custom-filename.gif)  
-<sub>Note: the version on the image may not reflect the [latest version of ProSheets](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
+![DiStem Parameter Extractor Tool Creating profiles](../../assets/images/Parameter-Extractor-Create-Profiles.png)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+1. Click on the top-right dropdown to open the profiles list.
+2. Click on the text input and name the profile (give it a meaningful name because this is the name that will show up in the profiles list)
+3. Click on the save button to save profile.
+
+### Import Profiles
+
+The profiles feature make it easy to import existing profiles (e.g., profiles from a shared location).
+
+Steps:
+
+![DiStem Parameter Extractor Tool Importing profiles](../../assets/images/Parameter-Extractor-Import-Profiles.png)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+1. Click on the top-right dropdown to open the profiles list.
+2. Click on the 'Import' button.
+3. Choose if you want to override the current list of profiles or if you want to append the profiles to your current list. 
+4. Select the profiles file to be imported.
+
+### Export Profiles
+
+The profiles feature make it easy to export your current list of profiles.
+
+Steps:
+
+![DiStem Parameter Extractor Tool Exporting profiles](../../assets/images/Parameter-Extractor-Export-Profiles.png)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+1. Click on the top-right dropdown to open the profiles list.
+2. Click on the 'Export' button.
+3. Select the folder location and filename. 
+
+### Delete Profiles
+
+Steps:
+
+![DiStem Parameter Extractor Tool Deleting profiles](../../assets/images/Parameter-Extractor-Delete-Profiles.png)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+1. Click on the top-right dropdown to open the profiles list.
+2. Click on the dustbin icon next to the profile you want to delete from the list.
+3. Confirm.
 
 ---
