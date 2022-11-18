@@ -25,7 +25,7 @@ The Model Cleanup Tool allows you to quickly batch delete Views, Schedules, Shee
 
 ---
 
-## Select the items to be removed
+## Select and clean the Revit model
 
 The Model Cleanup Tool provides a fast and user friendly way to select the model items that you want to clean from the model.
 
