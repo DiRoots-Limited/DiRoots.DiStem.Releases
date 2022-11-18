@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Danish | Video Tutorials
-parent: Video Tutorials
+parent: None
 nav_order: 4
 ---
 
