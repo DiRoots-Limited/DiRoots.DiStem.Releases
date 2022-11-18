@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spanish | Video Tutorials
-parent: Video Tutorials
+parent: None
 nav_order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: English | Video Tutorials
-parent: Video Tutorials
+parent: None
 nav_order: 1
 ---
 
