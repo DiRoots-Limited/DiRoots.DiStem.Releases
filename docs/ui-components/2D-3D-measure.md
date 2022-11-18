@@ -35,8 +35,8 @@ Steps:
 2. Select 2 points.
 3. The result will be automatically displayed in the plugin user interface.
 
-![ProSheets Creating profiles](../../assets/images/GIFs/Profiles/PS-Create-Profiles.gif)  
-<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
+![DiStem Measure Tool - distance between 2 points](../../assets/images/2D3DMeasure/MeasureRevit_2Points.png)  
+<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Measure the length of an edge
 
@@ -45,8 +45,8 @@ Steps:
 2. Select a railing edge.
 3. The result will be automatically displayed in the plugin user interface.
 
-![ProSheets Creating profiles](../../assets/images/GIFs/Profiles/PS-Create-Profiles.gif)  
-<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
+![DiStem Measure Tool - length of an edge](../../assets/images/2D3DMeasure/MeasureRevit_Edge.png)  
+<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Get XYZ coordinates from a single point
 
@@ -55,8 +55,8 @@ Steps:
 2. Select a point.
 3. The result will be automatically displayed in the plugin user interface.
 
-![ProSheets Creating profiles](../../assets/images/GIFs/Profiles/PS-Create-Profiles.gif)  
-<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
+![DiStem Measure Tool - coordinates from a single point](../../assets/images/2D3DMeasure/MeasureRevit_SinglePointCoordinates.png)  
+<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Copy the results to the clipboard
 
@@ -74,8 +74,8 @@ Pt1x= -21.7850015832099 Pt1y= -11.1666469113566 Pt1z= 8.85826771653543
 Pt2x= -21.7850015832099 Pt2y= -11.1666469113566 Pt2z= 19.6943426472675
 ```
 
-![ProSheets Creating profiles](../../assets/images/GIFs/Profiles/PS-Create-Profiles.gif)  
-<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
+![DiStem Measure Tool - Copy the results to the clipboard](../../assets/images/2D3DMeasure/MeasureRevit_CopyToClipboard.png)  
+<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Export the results to Microsoft Excel
 
@@ -85,5 +85,5 @@ Steps:
 3. Choose the saving location and filename.
 4. A confimation pop up will apper once the export to Excel is completed.
 
-![ProSheets Creating profiles](../../assets/images/GIFs/Profiles/PS-Create-Profiles.gif)  
-<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/).</sub>
+![DiStem Measure Tool - Export the results to Excel](../../assets/images/2D3DMeasure/MeasureRevit_ExportToExcel.png)  
+<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>

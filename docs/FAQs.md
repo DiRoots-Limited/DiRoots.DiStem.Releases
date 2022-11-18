@@ -37,7 +37,7 @@ Open PDF24 -> Settings -> Printer Driver and confirm that your settings are as p
 **Method B**  
 
 1. uninstall ProSheets and PDF24
-2. download and install the [latest version of ProSheets](https://diroots.com/revit-plugins/revit-to-pdf-dwg-dgn-dwf-nwc-ifc-and-images-with-prosheets/) from our website.
+2. download and install the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/) from our website.
 3. restart your computer and try again 
 
 ## Why I ProSheets tells me that my printer is in an error state?
