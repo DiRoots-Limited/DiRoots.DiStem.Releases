@@ -1,6 +1,6 @@
 DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your productivity. This bundle will help you to manage your BIM model data (extract and map elements’ properties and parameters), clean up the Revit model, remove revision clouds, transfer, measure distances in 2D & 3D views, get elements coordinates, and export to glTF.
 
-### Included in DiRootsStem bundle
+### Included in DiStem bundle
 - Properties Extraction Mapping to quickly extract hidden parameters and properties (e.g., Location – X, Y, Z Coordinates) from the model elements and inject them into existing or new instance shared parameters.
 - Model Cleanup to quickly batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports, and Images from your Revit Models. Easily select the elements you want to remove and remove them all with a single click.
 - Revision Clouds Remover to batch remove revision clouds from your Autodesk Revit model.
