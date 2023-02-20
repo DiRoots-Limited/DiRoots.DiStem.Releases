@@ -1,11 +1,12 @@
 ---
 layout: default
 title: CAD Manager
+has_children: true
 parent: User Guide
 nav_order: 6
 ---
 
-![DiStem CAD Manager.](../../assets/images/CADManager/CAD-Manager-Icon.png)  
+![DiStem CAD Manager.](../../assets/images/CADManager/CAD-Manager-Icon_150x150.png)  
 
 
 # CAD Layers

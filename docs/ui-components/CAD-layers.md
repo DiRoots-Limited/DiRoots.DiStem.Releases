@@ -5,7 +5,7 @@ parent: CAD Manager
 nav_order: 7
 ---
 
-![DiStem CAD Layers - Easily show/hide and colorize DWG layers.](../../assets/images/CADManager/CAD-Manager-Icon.png)  
+![DiStem CAD Layers - Easily show/hide and colorize DWG layers.](../../assets/images/CADManager/CAD-Manager-Icon_150x150.png)  
 
 
 # CAD Layers
