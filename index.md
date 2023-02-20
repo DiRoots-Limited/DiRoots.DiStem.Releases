@@ -19,8 +19,8 @@ DiStem bundle for Autodesk Revit contains several to Revit add-ins to boost your
 - Revision Clouds Remover Tool
 - 2D & 3D Measure Tool
 - glTF Exporter
+- CAD Layers
 - Parameters Mapping (Coming Soon)
-- CAD Manager (Coming Soon)
 - Transfer Project Standards (Coming Soon)
 
 [Download](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/){: .btn .btn-di-orange }

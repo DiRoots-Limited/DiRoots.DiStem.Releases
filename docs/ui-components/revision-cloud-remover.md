@@ -28,7 +28,7 @@ The Revision Clouds Remover Tool allows you to quickly batch remove revision clo
 
 ## Select and delete the Revision Clouds
 
-The MRevision Clouds Remover provides a fast and user friendly way to select the revision clouds that you want to delete from the model.
+The Revision Clouds Remover provides a fast and user friendly way to select the revision clouds that you want to delete from the model.
 
 ### Step by step 
 
