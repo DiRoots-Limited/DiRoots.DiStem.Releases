@@ -1,8 +1,8 @@
 ---
 layout: default
 title: CAD Layers
-parent: User Guide
-nav_order: 6
+parent: CAD Manager
+nav_order: 7
 ---
 
 ![DiStem CAD Layers - Easily show/hide and colorize DWG layers.](../../assets/images/CADManager/CAD-Manager-Icon.png)  
