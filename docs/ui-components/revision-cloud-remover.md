@@ -32,7 +32,7 @@ The Revision Clouds Remover provides a fast and user friendly way to select the 
 
 ### Step by step 
 
-![DiStem Model Cleanup Tool - Clean Revit Model step by step](../../assets/images/RevisionCloudRemover/RevisionCloudRemover.gif)  
+![DiStem Model Cleanup Tool - Clean Revit Model step by step](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
