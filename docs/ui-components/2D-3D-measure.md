@@ -68,13 +68,13 @@ Steps:
 ```
 Example of the data copied to the clipboard: 
 
-Length = 10.8360749307321 millimeters
-Δx = 0 Δy= -3.5527136788005E-15 Δz= 10.8360749307321
-Pt1x= -21.7850015832099 Pt1y= -11.1666469113566 Pt1z= 8.85826771653543
-Pt2x= -21.7850015832099 Pt2y= -11.1666469113566 Pt2z= 19.6943426472675
+Length = 3303 millimeters
+Δx = 0 Δy= 0 Δz= -3303
+Pt1x= -6640 Pt1y= -3404 Pt1z= 6003
+Pt2x= -6640 Pt2y= -3404 Pt2z= 2700
 ```
 
-![DiStem Measure Tool - Copy the results to the clipboard](../../assets/images/2D3DMeasure/MeasureRevit_CopyToClipboard.png)  
+![DiStem Measure Tool - Copy the results to the clipboard](../../assets\images\2D3DMeasure\DS-Clipboard.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Export the results to Microsoft Excel
