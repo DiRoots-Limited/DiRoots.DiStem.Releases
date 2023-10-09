@@ -5,7 +5,7 @@ parent: User Guide
 nav_order: 3
 ---
 
-![DiStem Revision Clouds Remover - Easily delete revision clouds from your Revit model.](../../assets/images/RevisionCloudRemover/RevisionCloudRemover32_x150.png)  
+![DiStem Revision Clouds Remover - Easily delete revision clouds from your Revit model.](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover32_x150.png)  
 
 
 # Revision Clouds Remover
