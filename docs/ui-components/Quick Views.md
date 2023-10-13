@@ -10,14 +10,14 @@ nav_order: 8
 
 # Quick Views
 {: .no_toc }
-The Quick Views allows you to create multiple Callouts, Elevantions and Sections views from internal rooms and spaces.
+The Quick Views allows you to create multiple views of Callouts, Elevantions and Sections of internal rooms and spaces.
 
 ## Core Features
 {: .no_toc }
-- Create Callouts from rooms and spaces
-- Create Elevations and Sections from rooms and spaces
-- Update views in batch
-- Assign Shared Parameters into the views.
+- Create Callouts from rooms and spaces.
+- Create Elevations and Sections from rooms and spaces.
+- Update views in batch.
+- Assign Shared Parameters to views..
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -28,15 +28,15 @@ The Quick Views allows you to create multiple Callouts, Elevantions and Sections
 ---
 ## Whole Model or Active View
 
-Select the radio button to manage rooms and spaces from Whole Model or the Active View.
-Note that, the table you show all rooms and spaces from current selected option. In this table you can see the level, number, name, and type from rooms and spaces, and the Status column will show if there are views created.
+Select the radio button to manage rooms and spaces from the Whole Model or the Active View.
+Note that, the table you show all rooms and spaces for the currently selected option. In this table you can see the level, number, name, and type of the rooms and spaces, and the Status column shows whether any views have been created.
 
 ![DiStem Quick Views - Whole Model or Active View](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ### Select Types
 
-In the first list, select if you want to create views from Rooms, Spaces or both.
+In the first list, select whether you want to create views from Rooms, Spaces or both.
 
 ![DiStem Quick Views - choose rooms/spaces](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
@@ -59,29 +59,29 @@ Open the Status List, and filter the rooms and spaces as Created, Not Created an
 
 ## Callout View
 
-Lets create some Callouts Views. To make this, click on Callout Settings button.
+Let's create some Callouts Views. To do this, click on the Callout Settings button.
 
 ### View tab
 
-In this tab, you can manage all details to create the Callout views.
+In this tab, you can manage all the details for creating Callout views.
 
 1. Choose the Callout Type
 
 2. Select a scale to apply to the views.
 
-3. Define the level of detail to create the views.
+3. Set a level of detail to create the views.
 
-4. Choose the Phase from view.
+4. Select the Phase of the view.
 
 5. If you want, select a View Template to create it.
 
-6. Define a value to Offset from Callout boudary.
+6. Set a value for Offset from Callout boudary.
 
-7. Choose if you want the Callout boudary as a rectangle or aligned with room/space boundary.
+7. Choose whether you want the Callout boudary to be a rectangle or aligned with room/space boundary.
 
 ```yaml
 #Note:
-Use the Info icon to see the boudaries example.
+Use the Info icon to see the example of the boudaries.
 ```
 
 ![DiStem Quick Views - View tab](../../)  
@@ -91,9 +91,9 @@ Use the Info icon to see the boudaries example.
 
 ### Naming Configuration tab
 
-Lets custom the view names.
+Let's customize the names of the views.
 
-On the first table see all the existing parameters you can use to naming the views. Select the parameters you want, and click on the arrow button to assign to the Selected Parameters table. You can also order the Selected Parameters using the arrows bellow the table.
+In the first table, you can see all the existing parameters that you can use to name the views. Select the parameters you want, and click on the arrow button to assign them to the Selected Parameters table. You can also sort the Selected Parameters using the arrows below the table.
 
 ```yaml
 #Note:
@@ -108,9 +108,9 @@ Select the checkbox to add a default Field Separator between the selected parame
 ![DiStem Quick Views - select parameters to naming](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
-1. Enter Custom Fields to naming the views.
+1. Enter Custom Fields to name the views.
 
-2. Enter Custom Separators betwen the parameters to naming.
+2. Enter Custom Separators betwen the parameters to be named.
 
 ![DiStem Quick Views - custom field and custom separator](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
@@ -119,8 +119,8 @@ Select the checkbox to add a default Field Separator between the selected parame
 
 ### Parameters tab
 
-To manage this tab you need at least one Shared Parameter from Views category criated. Then, click on Add button to add a Shared Parameter to the views you will create.
-Once you have added, open the list to select the parameter and on the second column assign a text value from it.
+To manage this tab you need to create at least one Shared Parameter from the Views category. Then, click on Add button to add a Shared Parameter to the views you are going to create.
+Once you have added it, open the list to select the parameter and in the second column, assign it a text value.
 
 ![DiStem Quick Views - Parameters tab](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
@@ -129,8 +129,8 @@ Once you have added, open the list to select the parameter and on the second col
 
 ### Save settigs
 
-Click on Apply to save the settings, and select the rooms and spaces you want to create the Callout views.
-To finish, click on Create button, and wait for a few seconds to create the views.
+Click Apply to save the settings, and select the rooms and spaces you want to create the Callout views for.
+To finish, click on the Create button, and wait for a few seconds for the views to be created.
 
 ```yaml
 #Note:
@@ -144,11 +144,11 @@ You also can use the Select Rooms/Spaces buttons to choose them manually.
 
 ## Elevation and Section views
 
-Lets create some Elevations and Setions Views. To make this, select in the list if you want to create Elevation or Section views, and click on Settings button.
+Let's create some Elevations and Setions Views. To do this, select from the list whether you want to create Elevation or Section views, and click on the Settings button.
 
 ### View tab
 
-In this tab, you can manage all details to create the views.
+In this tab, you can manage all the details for creating the views.
 
 1. Choose the Elevation/Section Type.
 
@@ -160,14 +160,14 @@ In this tab, you can manage all details to create the views.
 
 5. If you want, select a View Template to create it.
 
-6. Select the checkbox to Join Elevation Views into Single Marker. If the room is square or retangle, this option you put all views in as single marker.
+6. Select the checkbox to Join Elevation Views into Single Marker. If the room is square or retangle, this option places all the views on a single marker.
 
 ![DiStem Quick Views - View tab](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
 
-Now lets define the section height and offsets from rooms and spaces.
+Now let's define the section height and offsets to the rooms and spaces.
 
 1. Section Height- open the list and choose if you want to apply the value From Instance or Absoulte, and then define de value to apply it.
 
@@ -195,9 +195,9 @@ Use the Info icon to see the boudaries and Offsets examples.
 
 ### Naming Configuration tab
 
-Lets custom the view names.
+Let's customize the names of the views.
 
-On the first table see all the existing parameters you can use to naming the views. Select the parameters you want, and click on the arrow button to assign to the Selected Parameters table. You can also order the Selected Parameters using the arrows bellow the table.
+In the first table, you can see all the existing parameters that you can use to name the views. Select the parameters you want, and click on the arrow button to assign them to the Selected Parameters table. You can also sort the Selected Parameters using the arrows below the table.
 
 ```yaml
 #Note:
@@ -212,16 +212,16 @@ Select the checkbox to add a default Field Separator between the selected parame
 ![DiStem Quick Views - select parameters to naming](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
-1. Enter Custom Fields to naming the views.
+1. Enter Custom Fields to name the views.
 
-2. Enter Custom Separators betwen the parameters to naming.
+2. Enter Custom Separators between the parameters to name.
 
 ![DiStem Quick Views - custom field and custom separator](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
 
-Lets create a condition to count the views.
+Let's create a condition to count the views.
 
 1. Define the follow order by Clockwise or Anticlockwise.
 
@@ -243,8 +243,8 @@ To use the View Count condition, you must to select the View Count Parameter, in
 
 ### Parameters tab
 
-To manage this tab you need at least one Shared Parameter from Views category criated. Then, click on Add button to add a Shared Parameter to the views you will create.
-Once you have added, open the list to select the parameter and on the second column assign a text value from it.
+To manage this tab you need to create at least one Shared Parameter from the Views category. Then, click on Add button to add a Shared Parameter to the views you are going to create.
+Once you have added it, open the list to select the parameter and in the second column assign it a text value.
 
 ![DiStem Quick Views - Parameters tab](../../)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
@@ -253,12 +253,12 @@ Once you have added, open the list to select the parameter and on the second col
 
 ### Save settigs
 
-Click on Apply to save the settings, and select the rooms and spaces you want to create the Elevations/Sections views.
-To finish, click on Create button, and wait for a few seconds to create the views.
+Click Apply to save the settings, and select the rooms and spaces you want to create the Elevaastions/Sections views for.
+To finish, click on the Create button, and wait for a few seconds for the views to be created.
 
 ```yaml
 #Note:
-You also can use the Select Rooms/Spaces buttons to choose them manually.
+You also can use the Select Rooms/Spaces button to choose them manually.
 ```
 
 ![DiStem Quick Views - create views](../../)  
@@ -268,7 +268,7 @@ You also can use the Select Rooms/Spaces buttons to choose them manually.
 
 ## Right-click actions
 
-Right-click on the room/space inside the table and you can:
+Right-click on the room/space within the table and you can:
 
 - Delete Callout and Elevations/Sections.
 
