@@ -5,7 +5,7 @@ parent: User Guide
 nav_order: 8
 ---
 
-![DiStem Quick Views - Create internal views by Callouts, Elevations and Sections](../../)  
+![DiStem Quick Views - Create internal views by Callouts, Elevations and Sections](../../assets\images\QuickViews\QuickView_LightMode_Icon150px.png)  
 
 
 # Quick Views
@@ -17,7 +17,7 @@ The Quick Views allows you to create multiple views of Callouts, Elevantions and
 - Create Callouts from rooms and spaces.
 - Create Elevations and Sections from rooms and spaces.
 - Update views in batch.
-- Assign Shared Parameters to views..
+- Assign Shared Parameters to views.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -26,33 +26,34 @@ The Quick Views allows you to create multiple views of Callouts, Elevantions and
 {:toc}
 
 ---
+
 ## Whole Model or Active View
 
 Select the radio button to manage rooms and spaces from the Whole Model or the Active View.
 Note that, the table you show all rooms and spaces for the currently selected option. In this table you can see the level, number, name, and type of the rooms and spaces, and the Status column shows whether any views have been created.
 
-![DiStem Quick Views - Whole Model or Active View](../../)  
+![DiStem Quick Views - Whole Model or Active View](../../assets\images\QuickViews\DS-WholeModel.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ### Select Types
 
-In the first list, select whether you want to create views from Rooms, Spaces or both.
+In the first list, filter to display only Rooms, Spaces or both.
 
-![DiStem Quick Views - choose rooms/spaces](../../)  
+![DiStem Quick Views - choose rooms/spaces](../../assets\images\QuickViews\DS-Qv-RoomSpaces.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ### Linked Files
 
-Use the checkbox to choose the option to manage the rooms and spaces from linked files.
+Use the checkbox to choose the option to manage the rooms and spaces also from linked files.
 
-![DiStem Quick Views - linked files](../../)  
+![DiStem Quick Views - linked files](../../assets\images\QuickViews\DS-Qv-LikedFiles.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ### Status list
 
 Open the Status List, and filter the rooms and spaces as Created, Not Created and Changed views.
 
-![DiStem Quick Views - Filter by status](../../)  
+![DiStem Quick Views - Filter by status](../../assets\images\QuickViews\DS-Qv-Status.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -84,7 +85,7 @@ In this tab, you can manage all the details for creating Callout views.
 Use the Info icon to see the example of the boudaries.
 ```
 
-![DiStem Quick Views - View tab](../../)  
+![DiStem Quick Views - View tab](../../assets\images\QuickViews\DS-Qv-Callout.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -105,14 +106,14 @@ Use the checkbox to also see the Project Information parameters.
 Select the checkbox to add a default Field Separator between the selected parameters.
 ```
 
-![DiStem Quick Views - select parameters to naming](../../)  
+![DiStem Quick Views - select parameters to naming](../../assets\images\QuickViews\DS-Qv-Naming.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Enter Custom Fields to name the views.
 
 2. Enter Custom Separators betwen the parameters to be named.
 
-![DiStem Quick Views - custom field and custom separator](../../)  
+![DiStem Quick Views - custom field and custom separator](../../assets\images\QuickViews\DS-Qv-CustomFild.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -122,7 +123,7 @@ Select the checkbox to add a default Field Separator between the selected parame
 To manage this tab you need to create at least one Shared Parameter from the Views category. Then, click on Add button to add a Shared Parameter to the views you are going to create.
 Once you have added it, open the list to select the parameter and in the second column, assign it a text value.
 
-![DiStem Quick Views - Parameters tab](../../)  
+![DiStem Quick Views - Parameters tab](../../assets\images\QuickViews\DS-Qv-Parameters.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -137,7 +138,7 @@ To finish, click on the Create button, and wait for a few seconds for the views 
 You also can use the Select Rooms/Spaces buttons to choose them manually.
 ```
 
-![DiStem Quick Views - create views](../../)  
+![DiStem Quick Views - create views](../../assets\images\QuickViews\DS-Qv-CreateCollout.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -162,7 +163,7 @@ In this tab, you can manage all the details for creating the views.
 
 6. Select the checkbox to Join Elevation Views into Single Marker. If the room is square or retangle, this option places all the views on a single marker.
 
-![DiStem Quick Views - View tab](../../)  
+![DiStem Quick Views - View tab](../../assets\images\QuickViews\DS-Qv-SettingsElevation.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -188,7 +189,7 @@ Now let's define the section height and offsets to the rooms and spaces.
 Use the Info icon to see the boudaries and Offsets examples.
 ```
 
-![DiStem Quick Views - View tab](../../)  
+![DiStem Quick Views - View tab](../../assets\images\QuickViews\DS-Qv-Offset.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -209,14 +210,14 @@ Use the checkbox to also see the Project Information parameters.
 Select the checkbox to add a default Field Separator between the selected parameters.
 ```
 
-![DiStem Quick Views - select parameters to naming](../../)  
+![DiStem Quick Views - select parameters to naming](../../assets\images\QuickViews\DS-Qv-NamingElevations.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Enter Custom Fields to name the views.
 
 2. Enter Custom Separators between the parameters to name.
 
-![DiStem Quick Views - custom field and custom separator](../../)  
+![DiStem Quick Views - custom field and custom separator](../../assets\images\QuickViews\DS-Qv-Fields.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -236,7 +237,7 @@ Let's create a condition to count the views.
 To use the View Count condition, you must to select the View Count Parameter, in the previous table.
 ```
 
-![DiStem Quick Views - custom field and custom separator](../../)  
+![DiStem Quick Views - custom field and custom separator](../../assets\images\QuickViews\DS-Qv-ViewCount.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -246,14 +247,14 @@ To use the View Count condition, you must to select the View Count Parameter, in
 To manage this tab you need to create at least one Shared Parameter from the Views category. Then, click on Add button to add a Shared Parameter to the views you are going to create.
 Once you have added it, open the list to select the parameter and in the second column assign it a text value.
 
-![DiStem Quick Views - Parameters tab](../../)  
+![DiStem Quick Views - Parameters tab](../../assets\images\QuickViews\DS-ParametersElevation.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
 
 ### Save settigs
 
-Click Apply to save the settings, and select the rooms and spaces you want to create the Elevaastions/Sections views for.
+Click Apply to save the settings, and select the rooms and spaces you want to create the Elevations/Sections views for.
 To finish, click on the Create button, and wait for a few seconds for the views to be created.
 
 ```yaml
@@ -261,7 +262,7 @@ To finish, click on the Create button, and wait for a few seconds for the views 
 You also can use the Select Rooms/Spaces button to choose them manually.
 ```
 
-![DiStem Quick Views - create views](../../)  
+![DiStem Quick Views - create views](../../assets\images\QuickViews\DS-Qv-CreateEleSec.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -285,5 +286,10 @@ Update the Views of the selected Rooms/Spaces. All views from the selected Rooms
 Details and dimensions will be lost.
 ```
 
-![DiStem Quick Views - create views](../../)  
+![DiStem Quick Views - create views](../../assets\images\QuickViews\DS-Qv-Update.gif)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+All done! Verify your created views.
+
+![DiStem Quick Views - created views](../../assets\images\QuickViews\DS-Qv-Verify.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
