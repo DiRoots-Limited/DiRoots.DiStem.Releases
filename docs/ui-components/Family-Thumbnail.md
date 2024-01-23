@@ -5,7 +5,7 @@ parent: User Guide
 nav_order: 8
 ---
 
-![DiStem Family Thumbnail - Effortlessly create thumbnails/preview images of multiple RFA files in a snap](../../)  
+![DiStem Family Thumbnail - Effortlessly create thumbnails/preview images of multiple RFA files in a snap](../../assets\images\Family-thumbnail\thumbnail-logo.png)  
 
 
 # Family Thumbnail
@@ -37,7 +37,7 @@ Firstly, it's important to define the default settings for creating family thumb
 #### Default Appearance
 These settings will be applied to all families. Set the Display Style and Detail Level for 3D and 2D families, and the View Type for 3D families.
 
-![Family Thumbnail - default appearance](../../)  
+![Family Thumbnail - default appearance](../../assets\images\Family-thumbnail\FT-Da-Default.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 #### Override Appearance By Category
@@ -54,7 +54,7 @@ This section allows you to create conditions by categories, to override the defa
 
 5. The last step is to select the Detail level.
 
-![Family Thumbnail - override appearance](../../)  
+![Family Thumbnail - override appearance](../../assets\images\Family-thumbnail\FT-As-Override.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ### General Settings
@@ -67,7 +67,7 @@ This section allows you to create conditions by categories, to override the defa
 
 Click the Save button to apply the settings.
 
-![Family Thumbnail - general settings](../../)  
+![Family Thumbnail - general settings](../../assets\images\Family-thumbnail\FT-Gs-General.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ---
@@ -76,7 +76,7 @@ Click the Save button to apply the settings.
 
 Open a family in the Family Editor mode, then open the DiStem tab and click to Update Current.
 
-![Family Thumbnail - update current family](../../)  
+![Family Thumbnail - update current family](../../assets\images\Family-thumbnail\FT-Uc-Current.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ---
@@ -99,5 +99,5 @@ When you select this option, you do not need to enter a location path.
 ```
 Click on the Update button to start exporting the families.
 
-![Family Thumbnail - update in batch](../../)  
+![Family Thumbnail - update in batch](../../assets\images\Family-thumbnail\FT-Uc-Batch.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
