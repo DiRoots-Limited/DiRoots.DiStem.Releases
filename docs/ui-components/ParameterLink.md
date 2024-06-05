@@ -32,6 +32,9 @@ Parameter Link allows you to create links between parameters, whether Type or In
 
 To get started, click on the Add link button to select the Parameters that will be linked and customize the additional settings.
 
+![ParameterLink](../../assets\images\ParameterLink\PL-OpenPlugin.gif)  
+<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
+
 ### Firts steps:
 
 1. Enter a custom Link Name or keep the default.
@@ -42,7 +45,7 @@ To get started, click on the Add link button to select the Parameters that will 
 
 4. In the last dropdown list, select the element Category.
 
-![Add Link](../../)  
+![Add Link](../../assets\images\ParameterLink\PL-AddLink.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ### Next steps:
@@ -61,7 +64,7 @@ In the firts table, choose the Source Parameters and use the arrows or double-cl
 - Note that a preview of the composition of the parameter values is shown below the table of selected parameters.
 ```
 
-![Source Parameter](../../)  
+![Source Parameter](../../assets\images\ParameterLink\PL-SourceParameter.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 #### Target Parameter
@@ -75,7 +78,7 @@ User are able to select only one Target Parameter.
 
 All done, now click OK to finish creating the Parameter Link.
 
-![Target Parameter](../../)  
+![Target Parameter](../../assets\images\ParameterLink\PL-Target.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ---
@@ -84,7 +87,7 @@ All done, now click OK to finish creating the Parameter Link.
 
 Select the links you have created and click the Delete Link button, or right-click and select the Delete Link option.
 
-![Delete Link](../../)  
+![Delete Link](../../assets\images\ParameterLink\PL-Delete.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Duplicate Link
@@ -92,14 +95,14 @@ Select the links you have created and click the Delete Link button, or right-cli
 Select the links you have created and click the Duplicate Link button, or right-click and select the Duplicate Link option.
 Once the Link has been duplicated, click on the Edit button in the last column of the Link to edit the Link settings if you wish.
 
-![Duplicate Link](../../)  
+![Duplicate Link](../../assets\images\ParameterLink\PL-Duplicate.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Edit Link
 
 On the Edit button in the last column of the Link to open the Link settings and change them if necessary.
 
-![Edit Link](../../)  
+![Edit Link](../../assets\images\ParameterLink\PL-EditLink.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ---
@@ -109,7 +112,7 @@ On the Edit button in the last column of the Link to open the Link settings and 
 Remember to define which elements you want to map before applying it. It can be applied to the Whole Model, only to elements in the Active View or only to Current Seclected elements. Use the radio button to select the desired option.
 The next step is to select the checkboxes to choose the links to apply the mapping.
 
-![Apply Link](../../)  
+![Apply Link](../../assets\images\ParameterLink\PL-Apply.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ---
@@ -124,7 +127,7 @@ The profiles feature make it easy to save your settings and reuse them later. It
 
 Steps:
 
-![DiStem Parameter profiles](../../)  
+![DiStem Parameter profiles](../../assets\images\ParameterLink\PL-SaveProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -137,7 +140,7 @@ The profiles feature make it easy to import existing profiles (e.g., profiles fr
 
 Steps:
 
-![DiStem Parameter Link Importing profiles](../../)  
+![DiStem Parameter Link Importing profiles](../../assets\images\ParameterLink\PL-ImportProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -151,7 +154,7 @@ The profiles feature make it easy to export your current list of profiles.
 
 Steps:
 
-![DiStem Parameter Link profiles](../../assets/images/ParameterExtractor/Parameter-Extractor-Export-Profiles.png)  
+![DiStem Parameter Link profiles](../../assets\images\ParameterLink\PL-ExportProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -162,7 +165,7 @@ Steps:
 
 Steps:
 
-![DiStem Parameter Link Deleting profiles](../../assets/images/ParameterExtractor/Parameter-Extractor-Delete-Profiles.png)  
+![DiStem Parameter Link Deleting profiles](../../assets\images\ParameterLink\PL-DeleteProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
