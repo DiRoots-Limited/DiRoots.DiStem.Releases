@@ -5,7 +5,7 @@ parent: User Guide
 nav_order: 9
 ---
 
-![DiStem Parameter Link - Easily create links between Instance/Type parameters.](../../)  
+![DiStem Parameter Link - Easily create links between Instance/Type parameters.](../../assets\images\ParameterLink\ParameterLinkIcon.png)  
 
 
 # Parameter Link
