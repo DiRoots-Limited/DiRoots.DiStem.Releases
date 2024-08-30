@@ -1,16 +1,16 @@
 ---
 layout: default
-title: 2D & 3D Measure Tool
+title: 3D Ruler
 parent: User Guide
 nav_order: 4
 ---
 
-![DiStem 2D & 3D Measure Tool - Measure in 2D and 3D inside Autodesk Revit.](../../assets/images/2D3DMeasure/2D-3D-Measure-Revit-Ribbon-Icon_x150.png)  
+![DiStem 3D Ruler - Measure in 2D and 3D inside Autodesk Revit.](../../assets/images/2D3DMeasure/2D-3D-Measure-Revit-Ribbon-Icon_x150.png)  
 
 
-# 2D & 3D Measure Tool
+# 3D Ruler
 {: .no_toc }
-The 2D & 3D Measure Tool is an Autodesk Revit plugin that allows you to measure in a 2D and 3D views between 2 points or get XYZ coordinates from a single point.
+The 3D Ruler is an Autodesk Revit plugin that allows you to measure in a 2D and 3D views between 2 points or get XYZ coordinates from a single point.
 
 ## Core Features
 {: .no_toc }
@@ -35,7 +35,7 @@ Steps:
 2. Select 2 points.
 3. The result will be automatically displayed in the plugin user interface.
 
-![DiStem Measure Tool - distance between 2 points](../../assets/images/2D3DMeasure/MeasureRevit_2Points.png)  
+![DiStem 3D Ruler - distance between 2 points](../../assets/images/2D3DMeasure/MeasureRevit_2Points.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Measure the length of an edge
@@ -45,7 +45,7 @@ Steps:
 2. Select a railing edge.
 3. The result will be automatically displayed in the plugin user interface.
 
-![DiStem Measure Tool - length of an edge](../../assets/images/2D3DMeasure/MeasureRevit_Edge.png)  
+![DiStem 3D Ruler - length of an edge](../../assets/images/2D3DMeasure/MeasureRevit_Edge.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Get XYZ coordinates from a single point
@@ -55,7 +55,7 @@ Steps:
 2. Select a point.
 3. The result will be automatically displayed in the plugin user interface.
 
-![DiStem Measure Tool - coordinates from a single point](../../assets/images/2D3DMeasure/MeasureRevit_SinglePointCoordinates.png)  
+![DiStem 3D Ruler - coordinates from a single point](../../assets/images/2D3DMeasure/MeasureRevit_SinglePointCoordinates.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Copy the results to the clipboard
@@ -74,7 +74,7 @@ Pt1x= -6640 Pt1y= -3404 Pt1z= 6003
 Pt2x= -6640 Pt2y= -3404 Pt2z= 2700
 ```
 
-![DiStem Measure Tool - Copy the results to the clipboard](../../assets\images\2D3DMeasure\DS-Clipboard.png)  
+![DiStem 3D Ruler - Copy the results to the clipboard](../../assets\images\2D3DMeasure\DS-Clipboard.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Export the results to Microsoft Excel
@@ -85,5 +85,5 @@ Steps:
 3. Choose the saving location and filename.
 4. A confimation pop up will apper once the export to Excel is completed.
 
-![DiStem Measure Tool - Export the results to Excel](../../assets/images/2D3DMeasure/MeasureRevit_ExportToExcel.png)  
+![DiStem 3D Ruler - Export the results to Excel](../../assets/images/2D3DMeasure/MeasureRevit_ExportToExcel.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>

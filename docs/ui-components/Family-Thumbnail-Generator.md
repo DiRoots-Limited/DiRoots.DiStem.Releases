@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Family Thumbnail
+title: Family Thumbnail Generator
 parent: User Guide
 nav_order: 8
 ---
 
-![DiStem Family Thumbnail - Effortlessly create thumbnails/preview images of multiple RFA files in a snap](../../assets\images\Family-thumbnail\thumbnail-logo.png)  
+![DiStem Family Thumbnail Generator - Effortlessly create thumbnails/preview images of multiple RFA files in a snap](../../assets\images\Family-thumbnail\thumbnail-logo.png)  
 
 
-# Family Thumbnail
+# Family Thumbnail Generator
 {: .no_toc }
-The Family Thumbnail allows you to create thumbnails/preview images of multiple RFA files in a snap. You can also choose the perspectives, display style, and detail level to create the most eye-cathing previews. Plus, hide elements that clutter your visual representation for a crisp, clean look.
+The Family Thumbnail Generator allows you to create thumbnails/preview images of multiple RFA files in a snap. You can also choose the perspectives, display style, and detail level to create the most eye-cathing previews. Plus, hide elements that clutter your visual representation for a crisp, clean look.
 
 ## Core Features
 {: .no_toc }
@@ -30,14 +30,14 @@ The Family Thumbnail allows you to create thumbnails/preview images of multiple 
 
 ## Settings
 
-Firstly, it's important to define the default settings for creating family thumbnails.
+Firstly, it's important to define the default settings for creating Family Thumbnail Generators.
 
 ### Appearance Settings
 
 #### Default Appearance
 These settings will be applied to all families. Set the Display Style and Detail Level for 3D and 2D families, and the View Type for 3D families.
 
-![Family Thumbnail - default appearance](../../assets\images\Family-thumbnail\FT-Da-Default.gif)  
+![Family Thumbnail Generator - default appearance](../../assets\images\Family-thumbnail\FT-Da-Default.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 #### Override Appearance By Category
@@ -54,7 +54,7 @@ This section allows you to create conditions by categories, to override the defa
 
 5. The last step is to select the Detail level.
 
-![Family Thumbnail - override appearance](../../assets\images\Family-thumbnail\FT-As-Override.gif)  
+![Family Thumbnail Generator - override appearance](../../assets\images\Family-thumbnail\FT-As-Override.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ### General Settings
@@ -67,7 +67,7 @@ This section allows you to create conditions by categories, to override the defa
 
 Click the Save button to apply the settings.
 
-![Family Thumbnail - general settings](../../assets\images\Family-thumbnail\FT-Gs-General.gif)  
+![Family Thumbnail Generator - general settings](../../assets\images\Family-thumbnail\FT-Gs-General.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ---
@@ -76,7 +76,7 @@ Click the Save button to apply the settings.
 
 Open a family in the Family Editor mode, then open the DiStem tab and click to Update Current.
 
-![Family Thumbnail - update current family](../../assets\images\Family-thumbnail\FT-Uc-Current.gif)  
+![Family Thumbnail Generator - update current family](../../assets\images\Family-thumbnail\FT-Uc-Current.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ---
@@ -99,5 +99,5 @@ When you select this option, you do not need to enter a location path.
 ```
 Click on the Update button to start exporting the families.
 
-![Family Thumbnail - update in batch](../../assets\images\Family-thumbnail\FT-Uc-Batch.gif)  
+![Family Thumbnail Generator - update in batch](../../assets\images\Family-thumbnail\FT-Uc-Batch.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>

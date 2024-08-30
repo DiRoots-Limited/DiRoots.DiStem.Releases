@@ -5,12 +5,12 @@ parent: User Guide
 nav_order: 6
 ---
 
-![DiStem CAD Layers - Easily show/hide and colorize DWG layers.](../../assets/images/CADManager/CAD-Manager-Icon_150x150.png)  
+![DiStem CAD Manager - Easily show/hide and colorize DWG layers.](../../assets/images/CADManager/CAD-Manager-Icon_150x150.png)  
 
 
-# CAD Layers Tool
+# CAD Manager
 {: .no_toc }
-The CAD Layers Tool allows you to easily control the visibility and colors of the DWG layers. 
+The CAD Manager allows you to easily control the visibility and colors of the DWG layers. 
 
 ## Core Features
 {: .no_toc }
@@ -26,13 +26,13 @@ The CAD Layers Tool allows you to easily control the visibility and colors of th
 
 ---
 
-## Show/hide and colorize the CAD layers.
+## Show/hide and colorize the CAD Manager.
 
-The CAD Layers Tool provides a fast and user friendly way to show/hide and colorize the layers of the DWG file imported to Revit.
+The CAD Manager provides a fast and user friendly way to show/hide and colorize the layers of the DWG file imported to Revit.
 
 ### Step by step 
 
-![DiStem CAD Layers - Easily show/hide and colorize DWG layers step by step](../../assets/images/CADManager/CAD-Manager-UI.png)  
+![DiStem CAD Manager - Easily show/hide and colorize DWG layers step by step](../../assets/images/CADManager/CAD-Manager-UI.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -42,6 +42,6 @@ The CAD Layers Tool provides a fast and user friendly way to show/hide and color
 
 3. Use the color button to modify the color of the layers.
 
-# CAD to Revit Tool (Coming Soon)
+# CAD to Revit (Coming Soon)
 {: .no_toc }
 Coming Soon!

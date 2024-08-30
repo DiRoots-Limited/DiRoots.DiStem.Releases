@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Model Cleanup Tool
+title: Model Cleanup
 parent: User Guide
 nav_order: 2
 ---
 
-![DiStem Model Cleanup Tool - Batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports and Images from your Revit Models](../../assets/images/ModelCleanup/Model-Cleanup-Ribbon-Icon_x150.png)  
+![DiStem Model Cleanup - Batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports and Images from your Revit Models](../../assets/images/ModelCleanup/Model-Cleanup-Ribbon-Icon_x150.png)  
 
 
-# Model Cleanup Tool
+# Model Cleanup
 {: .no_toc }
-The Model Cleanup Tool allows you to quickly batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports and Images from your Revit Models. Easily select the elements you want to remove and remove them all with a single click.
+The Model Cleanup allows you to quickly batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports and Images from your Revit Models. Easily select the elements you want to remove and remove them all with a single click.
 
 ## Core Features
 {: .no_toc }
@@ -27,11 +27,11 @@ The Model Cleanup Tool allows you to quickly batch delete Views, Schedules, Shee
 
 ## Select and clean the Revit model
 
-The Model Cleanup Tool provides a fast and user friendly way to select the model items that you want to clean from the model.
+The Model Cleanup provides a fast and user friendly way to select the model items that you want to clean from the model.
 
 ### Step by step 
 
-![DiStem Model Cleanup Tool - Clean Revit Model step by step](../../assets/images/ModelCleanup/ModelCleanup.gif)  
+![DiStem Model Cleanup - Clean Revit Model step by step](../../assets/images/ModelCleanup/ModelCleanup.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 

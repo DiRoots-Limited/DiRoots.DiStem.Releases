@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Revision Clouds Remover
+title: Revision Remover
 parent: User Guide
 nav_order: 3
 ---
 
-![DiStem Revision Clouds Remover - Easily delete revision clouds from your Revit model.](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover32_x150.png)  
+![DiStem Revision Remover - Easily delete revision clouds from your Revit model.](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover32_x150.png)  
 
 
-# Revision Clouds Remover
+# Revision Remover
 {: .no_toc }
-The Revision Clouds Remover Tool allows you to quickly batch remove revision clouds from your Autodesk Revit model.
+The Revision Remover Tool allows you to quickly batch remove revision clouds from your Autodesk Revit model.
 
 ## Core Features
 {: .no_toc }
@@ -28,11 +28,11 @@ The Revision Clouds Remover Tool allows you to quickly batch remove revision clo
 
 ## Select and delete the Revision Clouds
 
-The Revision Clouds Remover provides a fast and user friendly way to select the revision clouds that you want to delete from the model.
+The Revision Remover provides a fast and user friendly way to select the revision clouds that you want to delete from the model.
 
 ### Step by step 
 
-![DiStem Model Cleanup Tool - Clean Revit Model step by step](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover.gif)  
+![DiStem Revision Remover - step by step](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
