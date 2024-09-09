@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Model Cleanup
-parent: User Guide
-nav_order: 2
+parent: Model Cleanup User Guide
+nav_order: 1
 ---
 
 ![DiStem Model Cleanup - Batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports and Images from your Revit Models](../../assets/images/ModelCleanup/Model-Cleanup-Ribbon-Icon_x150.png)  

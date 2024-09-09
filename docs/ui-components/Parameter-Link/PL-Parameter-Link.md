@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Parameter Link
-parent: User Guide
-nav_order: 9
+parent: Parameter Link User Guide
+nav_order: 1
 ---
 
 ![DiStem Parameter Link - Easily create links between Instance/Type parameters.](../../assets\images\ParameterLink\ParameterLinkIcon.png)  

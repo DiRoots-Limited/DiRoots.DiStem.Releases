@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Project Standards
-parent: User Guide
-nav_order: 7
+parent: Project Standards User Guide
+nav_order: 1
 ---
 
 ![DiStem Project Standards - Standards multiple elements from one project to multiple projects in one go](../../assets\images\ProjectStandard\Project-Standards_x150.png)  

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parameter Extrator
+title: Parameter Extrator User Guide
 parent: User Guide
 nav_order: 1
 ---

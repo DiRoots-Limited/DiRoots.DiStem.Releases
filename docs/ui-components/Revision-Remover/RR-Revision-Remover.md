@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Revision Remover
-parent: User Guide
-nav_order: 3
+parent: Revision Remover User Guide
+nav_order: 1
 ---
 
 ![DiStem Revision Remover - Easily delete revision clouds from your Revit model.](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover32_x150.png)  

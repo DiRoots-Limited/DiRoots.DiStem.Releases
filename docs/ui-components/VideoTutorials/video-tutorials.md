@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Video Tutorials
+nav_order: 10
 has_children: true
-nav_order: 100
+permalink: /docs/video-tutorials
 ---
 
 # Video Tutorials

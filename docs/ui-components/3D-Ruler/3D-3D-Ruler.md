@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 3D Ruler
-parent: User Guide
-nav_order: 4
+parent: 3D Ruler User Guide
+nav_order: 1
 ---
 
 ![DiStem 3D Ruler - Measure in 2D and 3D inside Autodesk Revit.](../../assets/images/2D3DMeasure/2D-3D-Measure-Revit-Ribbon-Icon_x150.png)  

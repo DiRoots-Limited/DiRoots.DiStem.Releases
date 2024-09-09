@@ -1,8 +1,8 @@
 ---
 layout: default
 title: CAD Manager
-parent: User Guide
-nav_order: 6
+parent: CAD Manager User Guide
+nav_order: 1
 ---
 
 ![DiStem CAD Manager - Easily show/hide and colorize DWG layers.](../../assets/images/CADManager/CAD-Manager-Icon_150x150.png)  
