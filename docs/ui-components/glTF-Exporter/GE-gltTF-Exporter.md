@@ -5,7 +5,7 @@ parent: glTF Exporter User Guide
 nav_order: 1
 ---
 
-![DiStem glTF Exporter - From Autodesk Revit to glTF.](../../assets/images/glTFExporter/glTF-Exporter-logo_x150.png)  
+![DiStem glTF Exporter - From Autodesk Revit to glTF.](../../../assets/images/glTFExporter/glTF-Exporter-logo_x150.png)  
 
 
 # glTF Exporter
@@ -45,7 +45,7 @@ Steps:
 5. Optional: tweak the default configuration.
 6. Click on the 'Export' button.
 
-![DiStem glTF Exporter - step by step](../../assets/images/glTFExporter/glTF-Exporter-Usage-Steps.png)  
+![DiStem glTF Exporter - step by step](../../../assets/images/glTFExporter/glTF-Exporter-Usage-Steps.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Advanced Configuration
@@ -57,11 +57,11 @@ Steps:
 4. Select if you want to export to glTF (JSON/ASCII) or GLB (Binary file format). Please note that both .gltf and .glb files may reference external binary and texture resources.
 5. Select the export settings ('Export 2D Elements', 'Export Normals', 'Precision Level', and default export location).
 
-![DiStem glTF Exporter - Advanced Configuration](../../assets/images/glTFExporter/glTF-Exporter-Advanced-Configuration.png)  
+![DiStem glTF Exporter - Advanced Configuration](../../../assets/images/glTFExporter/glTF-Exporter-Advanced-Configuration.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
 
 ## Viewing the 3D Model in the default Windows 3D Viewer 
 
 Because glTF is a standard file format for three-dimensional data, it is compatible with with many platforms and technologies, such as ThreeJS, Unity, Unreal Engine, Microsoft 3D Viewer, etc..
 
-![Microsoft 3D Viewer](../../assets/images/glTFExporter/Microsoft-3D-Viewer.png)
+![Microsoft 3D Viewer](../../../assets/images/glTFExporter/Microsoft-3D-Viewer.png)

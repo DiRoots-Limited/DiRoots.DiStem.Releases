@@ -5,7 +5,7 @@ parent: Revision Remover User Guide
 nav_order: 1
 ---
 
-![DiStem Revision Remover - Easily delete revision clouds from your Revit model.](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover32_x150.png)  
+![DiStem Revision Remover - Easily delete revision clouds from your Revit model.](../../../assets\images\RevisionCloudsRemover\RevisionCloudRemover32_x150.png)  
 
 
 # Revision Remover
@@ -32,7 +32,7 @@ The Revision Remover provides a fast and user friendly way to select the revisio
 
 ### Step by step 
 
-![DiStem Revision Remover - step by step](../../assets\images\RevisionCloudsRemover\RevisionCloudRemover.gif)  
+![DiStem Revision Remover - step by step](../../../assets\images\RevisionCloudsRemover\RevisionCloudRemover.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 

@@ -5,7 +5,7 @@ parent: CAD Manager User Guide
 nav_order: 1
 ---
 
-![DiStem CAD Manager - Easily show/hide and colorize DWG layers.](../../assets/images/CADManager/CAD-Manager-Icon_150x150.png)  
+![DiStem CAD Manager - Easily show/hide and colorize DWG layers.](../../../assets/images/CADManager/CAD-Manager-Icon_150x150.png)  
 
 
 # CAD Manager
@@ -32,7 +32,7 @@ The CAD Manager provides a fast and user friendly way to show/hide and colorize 
 
 ### Step by step 
 
-![DiStem CAD Manager - Easily show/hide and colorize DWG layers step by step](../../assets/images/CADManager/CAD-Manager-UI.png)  
+![DiStem CAD Manager - Easily show/hide and colorize DWG layers step by step](../../../assets/images/CADManager/CAD-Manager-UI.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
