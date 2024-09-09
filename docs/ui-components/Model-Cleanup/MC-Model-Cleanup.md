@@ -5,9 +5,6 @@ parent: Model Cleanup User Guide
 nav_order: 1
 ---
 
-![DiStem Model Cleanup - Batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports and Images from your Revit Models](../../../assets/images/ModelCleanup/Model-Cleanup-Ribbon-Icon_x150.png)  
-
-
 # Model Cleanup
 {: .no_toc }
 The Model Cleanup allows you to quickly batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports and Images from your Revit Models. Easily select the elements you want to remove and remove them all with a single click.

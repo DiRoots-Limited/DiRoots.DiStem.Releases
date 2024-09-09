@@ -5,9 +5,6 @@ parent: 3D Ruler User Guide
 nav_order: 1
 ---
 
-![DiStem 3D Ruler - Measure in 2D and 3D inside Autodesk Revit.](../../../assets/images/2D3DMeasure/2D-3D-Measure-Revit-Ribbon-Icon_x150.png)  
-
-
 # 3D Ruler
 {: .no_toc }
 The 3D Ruler is an Autodesk Revit plugin that allows you to measure in a 2D and 3D views between 2 points or get XYZ coordinates from a single point.

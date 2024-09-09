@@ -5,9 +5,6 @@ parent: Project Standards User Guide
 nav_order: 1
 ---
 
-![DiStem Project Standards - Standards multiple elements from one project to multiple projects in one go](../../../assets\images\ProjectStandard\Project-Standards_x150.png)  
-
-
 # Project Standards
 {: .no_toc }
 The Project Standards allows you to Standards multiple elements (e.g., Views, Sheets, View Templates, Doors, Windows) from one project to multiple projects in one go.

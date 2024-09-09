@@ -5,9 +5,6 @@ parent: glTF Exporter User Guide
 nav_order: 1
 ---
 
-![DiStem glTF Exporter - From Autodesk Revit to glTF.](../../../assets/images/glTFExporter/glTF-Exporter-logo_x150.png)  
-
-
 # glTF Exporter
 {: .no_toc }
 The glTF Exporter is an Autodesk Revit plugin that allows you to export your Autodesk Revit models to glTF file format.

@@ -5,9 +5,6 @@ parent: Family Thumbnail User Guide
 nav_order: 1
 ---
 
-![DiStem Family Thumbnail - Effortlessly create thumbnails/preview images of multiple RFA files in a snap](../../../assets\images\Family-thumbnail\thumbnail-logo.png)  
-
-
 # Family Thumbnail
 {: .no_toc }
 The Family Thumbnail allows you to create thumbnails/preview images of multiple RFA files in a snap. You can also choose the perspectives, display style, and detail level to create the most eye-cathing previews. Plus, hide elements that clutter your visual representation for a crisp, clean look.

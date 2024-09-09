@@ -5,9 +5,6 @@ parent: User Guide
 nav_order: 1
 ---
 
-![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets/images/ParameterExtractor/Parameter-Extractor-Ribbon-Icon_x150.png)  
-
-
 # Parameter Extrator
 {: .no_toc }
 The Parameter Extrator tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.

@@ -6,6 +6,8 @@ has_children: true
 permalink: /docs/ProjectStandards-user-guide
 ---
 
+![DiStem Project Standards - Standards multiple elements from one project to multiple projects in one go](../../../assets\images\ProjectStandard\Project-Standards_x150.png) 
+
 # Project Standards User Guide
 
 Learn how to use Project Standards to speed up your drawing production.

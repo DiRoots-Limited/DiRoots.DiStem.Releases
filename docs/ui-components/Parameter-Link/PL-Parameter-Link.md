@@ -5,9 +5,6 @@ parent: Parameter Link User Guide
 nav_order: 1
 ---
 
-![DiStem Parameter Link - Easily create links between Instance/Type parameters.](../../../assets\images\ParameterLink\ParameterLinkIcon.png)  
-
-
 # Parameter Link
 {: .no_toc }
 Parameter Link allows you to create links between parameters, whether Type or Instance, in elements filtered by Disciplines and Categories. 
