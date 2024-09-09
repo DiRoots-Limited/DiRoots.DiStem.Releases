@@ -28,14 +28,14 @@ CAD Tracing allows you to convert the Layers or Element Types of the imported DW
 
 This first drop-down list shows the list of DWGs imported into the project.
 
-![DiStem CAD Tracing - choose imported DWG](../../../)  
+![DiStem CAD Tracing - choose imported DWG](../../../assets\images\CADManager\CT-CADLink.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ### Sort list by
 
 In the second drop-down list, choose whether you want to filter the elements in the DWG file by Layers or Element types.
 
-![DiStem CAD Tracing - filter by layer or element type](../../../)  
+![DiStem CAD Tracing - filter by layer or element type](../../../assets\images\CADManager\CT-SortList.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
@@ -45,14 +45,14 @@ In the second drop-down list, choose whether you want to filter the elements in 
 The table below lists all the layers in the selected DWG.
 Expand the desired layer and, in the second column (tracing), use the drop-down list to choose the type of Revit element you want to convert.
 
-![DiStem CAD Tracing - trancing layers](../../../)  
+![DiStem CAD Tracing - trancing layers](../../../assets\images\CADManager\CT-Tracing.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ### Search Layers
 
 Use the searchbox to search by specifc layers.
 
-![DiStem CAD Tracing - Search layers](../../../)  
+![DiStem CAD Tracing - Search layers](../../../assets\images\CADManager\CT-Search.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ### Right-click
@@ -62,6 +62,9 @@ Use the shortcuts with the right mouse click.
 - Expand all Layers
 - Collapse all layers
 - Hide Unchecked layers
+
+![DiStem CAD Tracing - context menu](../../../assets\images\CADManager\CT-RightClick.gif)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ---
 
@@ -73,7 +76,7 @@ Finally, to complete the mapping, let's create a new view.
 
 2. The next step is to choose whether you want to create a new view or overlay an existing one.
 
-![DiStem CAD Tracing - new or existing view](../../../)  
+![DiStem CAD Tracing - new or existing view](../../../assets\images\CADManager\CT-View.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ```yaml
@@ -95,5 +98,5 @@ Click on the “Create” button to execute the mapping and create the view as s
 
 Once you have configured the DWG layers/elements types to map in Revit, export a file that can be shared with your team or used in other projects.
 
-![DiStem CAD Tracing - export CAD Mapping](../../../)  
+![DiStem CAD Tracing - export CAD Mapping](../../../assets\images\CADManager\CT-ExportImport.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
