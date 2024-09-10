@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Family Thumbnail
+title: Settings
 parent: Family Thumbnail User Guide
 nav_order: 1
 ---
@@ -65,36 +65,4 @@ This section allows you to create conditions by categories, to override the defa
 Click the Save button to apply the settings.
 
 ![Family Thumbnail - general settings](../../../assets\images\Family-thumbnail\FT-Gs-General.gif)  
-<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
-
----
-
-## Update Current
-
-Open a family in the Family Editor mode, then open the DiStem tab and click to Update Current.
-
-![Family Thumbnail - update current family](../../../assets\images\Family-thumbnail\FT-Uc-Current.gif)  
-<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
-
----
-
-## Update Batch
-
-Click to update families in batches.
-
-1. Source Families
-First, select whether you want to Load from folder or Update opened families.
-
-2. If you choose to Load from folder, select the location of the source folder.
-
-3. Select the Output Location.
-
-```yaml
-#Note:
-Select the checkbox to Save updated families in the same source location (backups will be kept).
-When you select this option, you do not need to enter a location path.
-```
-Click on the Update button to start exporting the families.
-
-![Family Thumbnail - update in batch](../../../assets\images\Family-thumbnail\FT-Uc-Batch.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
