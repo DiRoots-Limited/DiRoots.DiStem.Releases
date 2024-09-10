@@ -45,7 +45,7 @@ This tool comes with a variety of features to help you to quickly select the pro
 
 ### Step by step 
 
-![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets/images/ParameterExtractor/Parameter-Extractor-Selection-Tab.png)  
+![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-StepbyStep.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -65,7 +65,7 @@ Use this tab to map and extract the properties/parameters into new or existing s
 
 ### Step by step
 
-![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets/images/ParameterExtractor/Parameter-Extractor-Create-Parameters-Tab.png)  
+![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-CreateParameters.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -134,7 +134,7 @@ The profiles feature make it easy to save your settings and reuse them later. It
 
 Steps:
 
-![DiStem Parameter Extrator Creating profiles](../../../assets/images/ParameterExtractor/Parameter-Extractor-Create-Profiles.png)  
+![DiStem Parameter Extrator Creating profiles](../../../assets\images\ParameterExtractor\PE-Profile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -147,7 +147,7 @@ The profiles feature make it easy to import existing profiles (e.g., profiles fr
 
 Steps:
 
-![DiStem Parameter Extrator Importing profiles](../../../assets/images/ParameterExtractor/Parameter-Extractor-Import-Profiles.png)  
+![DiStem Parameter Extrator Importing profiles](../../../assets\images\ParameterExtractor\PE-ImportProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -161,7 +161,7 @@ The profiles feature make it easy to export your current list of profiles.
 
 Steps:
 
-![DiStem Parameter Extrator Exporting profiles](../../../assets/images/ParameterExtractor/Parameter-Extractor-Export-Profiles.png)  
+![DiStem Parameter Extrator Exporting profiles](../../../assets\images\ParameterExtractor\PE-ExportProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -172,7 +172,7 @@ Steps:
 
 Steps:
 
-![DiStem Parameter Extrator Deleting profiles](../../../assets/images/ParameterExtractor/Parameter-Extractor-Delete-Profiles.png)  
+![DiStem Parameter Extrator Deleting profiles](../../../assets\images\ParameterExtractor\PE-DeleteProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
