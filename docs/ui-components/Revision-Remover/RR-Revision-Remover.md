@@ -29,7 +29,7 @@ The Revision Remover provides a fast and user friendly way to select the revisio
 
 ### Step by step 
 
-![DiStem Revision Remover - step by step](../../../assets\images\RevisionCloudsRemover\RevisionCloudRemover.gif)  
+![DiStem Revision Remover - step by step](../../../assets\images\RevisionRemover\RR-RevisionRemover.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
