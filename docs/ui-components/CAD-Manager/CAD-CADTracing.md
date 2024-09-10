@@ -31,6 +31,11 @@ This first drop-down list shows the list of DWGs imported into the project.
 ![DiStem CAD Tracing - choose imported DWG](../../../assets\images\CADManager\CT-CADLink.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
+```yaml
+# Note:
+When creating the view, make sure you have selected the layers you want to create. If no layers are selected, the views will be created blank.
+```
+
 ### Sort list by
 
 In the second drop-down list, choose whether you want to filter the elements in the DWG file by Layers or Element types.
@@ -87,10 +92,15 @@ Finally, to complete the mapping, let's create a new view.
 
 ### Create
 
-Click on the “Create” button to execute the mapping and create the view as selected.
+Select the layers and click on the “Create” button to execute the mapping and create the view as selected.
 
-![DiStem CAD Tracing - create](../../../)  
+![DiStem CAD Tracing - create](../../../assets\images\CADManager\CT-Create.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+```yaml
+# Note:
+When creating the view, make sure you have selected the layers you want to create. If no layers are selected, the views will be created blank.
+```
 
 ---
 
