@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Model Cleanup User Guide
-nav_order: 2
+nav_order: 4
 has_children: true
 permalink: /docs/ModelCleanup-user-guide
 ---
