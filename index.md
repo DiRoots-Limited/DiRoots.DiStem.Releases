@@ -14,15 +14,14 @@ DiStem bundle for Autodesk Revit contains several to Revit add-ins to boost your
 
 ## Included Autodesk Revit Plugins
 
-- Properties Extractor and Mapping Tool
-- Model Cleanup Tool
-- Revision Clouds Remover Tool
-- 2D & 3D Measure Tool
+- Parameter Extrator
+- Model Cleanup
+- Revision Remover
+- 3D Ruler
 - glTF Exporter
 - CAD Manager
-    - CAD Layers
-    - CAD to Revit (Coming Soon)
-- Parameters Mapping (Coming Soon)
-- Transfer Project Standards (Coming Soon)
+- Parameter Link
+- Project Standards
+- Family Thumbnail
 
 [Download](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/){: .btn .btn-di-orange }
