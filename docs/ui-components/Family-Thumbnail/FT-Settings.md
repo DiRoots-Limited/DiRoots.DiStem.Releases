@@ -66,3 +66,7 @@ Click the Save button to apply the settings.
 
 ![Family Thumbnail - general settings](../../../assets\images\Family-thumbnail\FT-Gs-General.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
+
+---
+
+All done, all settings made, now let's update the family thumbnails.

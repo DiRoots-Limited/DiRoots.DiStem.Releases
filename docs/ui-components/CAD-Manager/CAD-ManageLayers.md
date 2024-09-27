@@ -43,3 +43,7 @@ Use the searchbox to search by specifc layers.
 
 ![DiStem CAD Manager - Search layers](../../../assets\images\CADManager\CAD-Search.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+---
+
+Let's go to the next tab to manage the CAD Tracing.
