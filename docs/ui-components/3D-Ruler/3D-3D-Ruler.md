@@ -84,3 +84,9 @@ Steps:
 
 ![DiStem 3D Ruler - Export the results to Excel](../../../assets/images/2D3DMeasure/MeasureRevit_ExportToExcel.png)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
+ 
+---
+ 
+If you want to find out more about 3D Ruler and explore detailed tutorials on how to use it, visit our YouTube channel. There, you'll find a series of videos that can help answer questions and improve your knowledge. Be sure to check it out and subscribe to keep up to date with our news and tips!
+ 
+[DiRoots Channel](https://www.youtube.com/@DiRootsNews){: .btn .btn-di-orange }

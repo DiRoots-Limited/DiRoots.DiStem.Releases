@@ -180,3 +180,7 @@ Steps:
 3. Click 'Yes' to confirm and delete the profile.
 
 ---
+ 
+If you want to find out more about Parameter Extrator and explore detailed tutorials on how to use it, visit our YouTube channel. There, you'll find a series of videos that can help answer questions and improve your knowledge. Be sure to check it out and subscribe to keep up to date with our news and tips!
+ 
+[DiRoots Channel](https://www.youtube.com/@DiRootsNews){: .btn .btn-di-orange }
