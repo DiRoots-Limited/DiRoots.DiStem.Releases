@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settings
+title: Filled Patterns
 parent: Style Sync User Guide
 nav_order: 6
 

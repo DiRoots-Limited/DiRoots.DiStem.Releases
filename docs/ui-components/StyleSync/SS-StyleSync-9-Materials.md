@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settings
+title: Materials
 parent: Style Sync User Guide
 nav_order: 9
 

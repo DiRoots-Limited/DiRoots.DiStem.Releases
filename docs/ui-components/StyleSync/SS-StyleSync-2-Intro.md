@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settings
+title: Introduction
 parent: Style Sync User Guide
 nav_order: 2
 ---
