@@ -40,7 +40,7 @@ Picture
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. **Select Dimension Styles:** Use the checkboxes to select the dimension styles from the list that need to be changed.
-2. **Choose Replacement:** In the Sync To column, select the destination dimension style.
+2. **Choose Replacement:** In the Replace With column, select the destination dimension style.
 3. **Sync:** Click the Sync button to change all the selected dimensions quickly.
 
 ##  Additional Information

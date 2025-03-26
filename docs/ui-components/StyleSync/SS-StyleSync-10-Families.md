@@ -27,7 +27,7 @@ The default columns include:
 
 **Instances:** The number of instances of the family in the project.
 
-**Sync To:** Options for synchronizing the family with another.
+**Replace With:** Options for synchronizing the family with another.
 
 ### Additional Columns
 
@@ -46,7 +46,7 @@ You can include the following columns using the column settings to facilitate fa
 
 
 1. **Select a Family:** Use the checkbox to select a family from the list that needs to be changed.
-2. **Choose Replacement:** In the Sync To column, select the family that needs to be replicated.
+2. **Choose Replacement:** In the Replace With column, select the family that needs to be replicated.
 3. **Sync:** Click the Sync button to change the Revit families instantly.
 
 ### Note

@@ -32,7 +32,7 @@ The default columns include:
 
 1. **Find the Pattern:** Use the search bar at the top or the filter in the column header to locate the pattern that needs to be changed.
 2. **Sort Patterns:** Use the Pattern column to sort and find similar line patterns.
-3. **Choose Replacement:** In the Sync To column, select the required pattern.
+3. **Choose Replacement:** In the Replace With column, select the required pattern.
 4. **Select Patterns:** Check the boxes for the patterns you need to change.
 5. **Sync:** Click the Sync button at the bottom to change all selected line patterns to the chosen line pattern within seconds.
 

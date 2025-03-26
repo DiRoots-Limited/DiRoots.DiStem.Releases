@@ -22,11 +22,11 @@ The default columns include:
 
 **Material Name:** The name of the material.
 
-**Description, Class, Instances** and **Sync To** columns
+**Description, Class, Instances** and **Replace With** columns
 
 ### Additional Columns
 
-You can include the following columns using the column settings to facilitate faster decision-making:**
+**You can include the following columns using the column settings to facilitate faster decision-making:**
 
 **Appearance Asset**
 
@@ -48,7 +48,7 @@ You can include the following columns using the column settings to facilitate fa
 
 
 1. **Select a Material:** Use the checkbox to select a material from the list that needs to be changed.
-2. **Choose Replacement:** In the Sync To column, select the material that needs to be replicated.
+2. **Choose Replacement:** In the Replace With column, select the material that needs to be replicated.
 3. **Sync:** Click the Sync button to change multiple the materials within minutes.
 
 

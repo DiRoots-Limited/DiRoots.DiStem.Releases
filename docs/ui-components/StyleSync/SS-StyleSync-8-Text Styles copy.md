@@ -39,7 +39,7 @@ Picture
 
 
 1. **Select a Text Style:** Use the checkbox to select a text style from the list that needs to be changed.
-2. **Choose Replacement:** In the Sync To column, select the text style that needs to be replicated.
+2. **Choose Replacement:** In the Replace With column, select the text style that needs to be replicated.
 
 3. **Sync:** Click the Sync button to change the text styles within minutes.
 

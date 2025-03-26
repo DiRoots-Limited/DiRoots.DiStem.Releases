@@ -28,7 +28,7 @@ The default columns include:
 
 **Instances:** The number of instances of the filled region in the project.
 
-**Sync To:** Options for synchronizing the filled region with another.
+**Replace With:** Options for synchronizing the filled region with another.
 
 ##  Instructions
 
@@ -37,7 +37,7 @@ The default columns include:
 
 1. **Find the Filled Region:** Use the search bar at the top or the filters in the column headers to locate the filled region that needs to be changed.
 2. **Sort Data:** Use the filters in each column to sort and search through the data.
-3. **Choose Replacement:** In the Sync To column, select the required pattern.
+3. **Choose Replacement:** In the Replace With column, select the required pattern.
 4. **Select Regions:** Check the boxes for the regions you need to change.
 5. **Sync:** Click the Sync button to change multiple regions into one or different patterns quickly.
 

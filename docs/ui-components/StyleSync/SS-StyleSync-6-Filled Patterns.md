@@ -36,7 +36,7 @@ Orientation in Host
 **Material:** The material associated with the pattern.
 Instances (Count):** The number of instances of the pattern in the project.
 
-**Sync To:** Options for synchronizing the pattern with another.
+**Replace With:** Options for synchronizing the pattern with another.
 
 ##  Instructions
 
@@ -45,7 +45,7 @@ Instances (Count):** The number of instances of the pattern in the project.
 
 
 1. **Select Filled Patterns:** Use the checkboxes to select the filled patterns from the list that need to be changed.
-2. **Choose Replacement:** In the Sync To column, select the destination pattern.
+2. **Choose Replacement:** In the Replace With column, select the destination pattern.
 3. **Sync:** Click the Sync button to change multiple patterns into one or different patterns quickly.
 
 ##  Additional Information
