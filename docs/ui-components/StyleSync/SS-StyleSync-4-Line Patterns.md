@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settings
+title: Line Patterns
 parent: Style Sync User Guide
 nav_order: 4
 

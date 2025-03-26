@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settings
+title: Dimension Styles
 parent: Style Sync User Guide
 nav_order: 7
 

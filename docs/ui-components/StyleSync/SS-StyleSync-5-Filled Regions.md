@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settings
+title: Filled Regions
 parent: Style Sync User Guide
 nav_order: 5
 
