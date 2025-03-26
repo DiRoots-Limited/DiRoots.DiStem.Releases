@@ -11,9 +11,53 @@ nav_order: 2
 
 The Style Sync feature provides a user-friendly interface for managing and updating various styles within your project. This documentation outlines the general navigation and functionalities available.
 
+###  Selection
+
+The selection in the DataGrid allows for actions to be applied to multiple rows. 
+
+- **MultiSelection:** Click and drag to select multiple rows
+- **Ctrl Key:** Add or Remove rows one by one.
+- **Shift Key:** Add all rows between the last selection and the next selection.
+- **Select All**: Press **Ctrl + A** to select all rows in the window.
+- **Checkboxes:** Use the checkboxes on the left to check the items you wish to Sync or Delete. Use the checkbox in the column header to check or uncheck all items.
+
+![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_General_Selection.GIF)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+###  Context Menus
+
+#### When right clicking on rows you have the main context menu:
+
+![DiStem Style Sync - ContextMenu - Main](../../../assets\images\StyleSync\SS-ContextMenu-Main.png)
+
+- **Inspect** - Inspect the selected Styles
+- **Show Elements** - Shows elements that have the selected Styles applied
+- **Select Elements** - Selects elements that have the selected Styles applied
+- **Delete** - Deletes the selected Styles that are empty
+- **Expand all** - Expands all groups (visible only when grouping) 
+- **Collapse all** - Collapse all groups (visible only when grouping) 
+
+
+#### When right clicking on column headers you have the following context-menu:
+
+![DiStem Style Sync - ContextMenu - Headers](../../../assets\images\StyleSync\SS-ContextMenu-Headers.png)
+
+- **Clear Sorting** - Clears the sorting on this column
+- **Clear Filtering** - Clear the filtering on this column
+- **Hide Column** - Hides this column
+- **Show All Columns** - Shows all columns that are available in the column settings
+- **Column Settings** - Opens the Column Settings window
+- **Stretch to Fill** - Changes the width of the column to fill all available space, the extra space is divided by all columns that are stretching and they grow and shrink with window size.
+- **Auto Fit** - Increases or Decreases the column width to match the size of the contents and header.
+- **Group by this Column** - Group the rows by this column - you can have several groups, order matters
+- **Clear Groups** - Clears all groups applied to the datagrid
+
 ###  Sorting
 
-Title Headers: Click on the tile headers to sort the columns in ascending or descending order based on their values.
+Title Headers: 
+- **Click** - Sort the columns in ascending or descending order based on their values.
+
+- **Ctrl + Click** - Add an aditional sort on the clicked column.
 
 ![DiStem Style Sync - General - Sorting](../../../assets\images\StyleSync\DS_SS_General_Sorting.GIF)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
@@ -21,31 +65,22 @@ Title Headers: Click on the tile headers to sort the columns in ascending or des
 
 ###  Filtering
 
-Filter Symbol: Use the filter symbol at the end of the column header to quickly filter required items and hide the rest.
+**Filter Symbol**: Notice the filter symbol on each header, it indicates if there's any filter active. Click on it to open the filtering menu:
+-  **Clear Filter** - Clears the active filter on this column.
+- **Text/Number filter** - Create specific rule based filters such as Contains, Begins with, Larger than, etc.
+- **Search** - Filters the below checklist to values that match the input.
+- **Check List** - Allows manually filtering specific values, by checking/unchecking from a list of available values.
 
 
 ![DiStem Style Sync - General - Filtering](../../../assets\images\StyleSync\DS_SS_General_Filtering.GIF)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
-###  Selection
-
-
-**Checkboxes:** Use checkboxes to select the required fields.
-
-**Ctrl Key:** Add instances one by one.
-
-**Shift Key:** Add all instances between the last selection and the next selection.
-
-**Select All**: Press **Ctrl + A** or use the checkbox in the column header to select or unselect all items in the window.
-
-
-![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_General_Selection.GIF)  
-<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
-
 
 ###  Column Settings
-You can customize the columns displayed by accessing the column settings. This allows you to tailor the view to your specific needs and preferences.
+You can customize the columns displayed by accessing the column settings. Use this window to easily show and hide columns, group/ungroup them and, if possible, open the **Add Parameters** window.
 
+####  Add Parameters
+This window that is only available in the Dimension Styles or Families tab. It allows you to choose between all available parameters and add them as columns on the datagrid.
 
 ![DiStem Style Sync - General Column Settings](../../../assets\images\StyleSync\DS_SS_General_ColumnSettingsGrouping.gif)
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
@@ -69,7 +104,7 @@ After synchronizing styles, you can clean up duplicated and non-standard styles,
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ###  Error Handling
-If there are any issues during the synchronization process, an error message will be displayed, providing details on the problem and steps to resolve it.
+If there are any issues during the synchronization process, an error message will be displayed, providing details on the problem.
 
 ![DiStem Style Sync - Error Handling](../../../assets\images\StyleSync\DS_SS_General_ErrorHandling.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
