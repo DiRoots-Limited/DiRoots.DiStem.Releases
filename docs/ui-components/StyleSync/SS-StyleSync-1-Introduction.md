@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General UI and Workflow
+title: Introduction
 parent: Style Sync User Guide
 nav_order: 1
 ---
