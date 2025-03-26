@@ -15,7 +15,7 @@ The Style Sync feature provides a user-friendly interface for managing and updat
 
 Title Headers: Click on the tile headers to sort the columns in ascending or descending order based on their values.
 
-![DiStem Style Sync - General - Sorting](../../../assets\images\StyleSync\DS_SS_GENERAL_SORTING.gif)  
+![DiStem Style Sync - General - Sorting](../../../assets\images\StyleSync\DS_SS_General_Sorting.GIF)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -24,7 +24,7 @@ Title Headers: Click on the tile headers to sort the columns in ascending or des
 Filter Symbol: Use the filter symbol at the end of the column header to quickly filter required items and hide the rest.
 
 
-![DiStem Style Sync - General - Filtering](../../../assets\images\StyleSync\DS_SS_GENERAL_FILTERING.gif)  
+![DiStem Style Sync - General - Filtering](../../../assets\images\StyleSync\DS_SS_General_Filtering.GIF)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ###  Selection
@@ -39,7 +39,7 @@ Filter Symbol: Use the filter symbol at the end of the column header to quickly 
 **Select All**: Press **Ctrl + A** or use the checkbox in the column header to select or unselect all items in the window.
 
 
-![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_GENERAL_SELECTION.gif)  
+![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_General_Selection.GIF)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -47,7 +47,7 @@ Filter Symbol: Use the filter symbol at the end of the column header to quickly 
 You can customize the columns displayed by accessing the column settings. This allows you to tailor the view to your specific needs and preferences.
 
 
-![DiStem Style Sync - General Column Settings](../../../assets\images\StyleSync\DS_SS_General_ColumnSettingsGrouping.GIF)
+![DiStem Style Sync - General Column Settings](../../../assets\images\StyleSync\DS_SS_General_ColumnSettingsGrouping.gif)
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
