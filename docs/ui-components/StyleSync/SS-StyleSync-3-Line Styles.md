@@ -16,6 +16,10 @@ The Line Styles tab provides a comprehensive view of all line styles used in the
 
 The default columns include:
 
+![DiStem Style Sync - Line Styles UI](../../../assets\images\StyleSync\DS_SS_LS_UI.png)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+
 **Pattern:** The pattern of the line style.
 
 **Line Weight:** The weight of the line.
@@ -24,21 +28,22 @@ The default columns include:
 
 **Instances:** The number of instances of the line style in the project.
 
-**Sync To:** Options for synchronizing the line style with another.
+**Replace With:** Options for synchronizing the line style with another.
 
 ##  Instructions
 
-![DiStem Style Sync - Sync Line Styles](../../../assets\images\StyleSync\.gif)  
+![DiStem Style Sync - Sync Line Styles](../../../assets\images\StyleSync\DS_SS_LS_SyncLineStyles.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. **Find the Line Style:** Use the search bar at the top or the filters in the column headers to locate the line style that needs to be changed.
 2. **Sort Data:** Use the filters in each column to sort and pinpoint unnecessary line styles according to their pattern, line weight, and colors, even if they are renamed differently but look visually the same.
-3. **Choose Replacement:** In the Sync To column, select the required line style.
+3. **Choose Replacement:** In the Replace With column, select the required line style.
 4. **Select Line Styles:** Check the boxes for the line styles you need to change.
 5. **Sync:** Click the Sync button to automatically change all selected line styles to the required styles within an instant.
 
 
 ##  Additional Information
+
 
 **Column Settings:** You can customize the columns displayed by accessing the column settings. This allows you to tailor the view to your specific needs and preferences.
 

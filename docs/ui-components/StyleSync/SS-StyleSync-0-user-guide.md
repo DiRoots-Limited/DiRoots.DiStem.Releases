@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/RevisionRemover-user-guide
 ---
 
-![DiStem Style Sync - convert all instances of a specific style into another.](../../../assets\images\RevisionRemover\.png)  
+![DiStem Style Sync - convert all instances of a specific style into another.](../../../assets\images\StyleSync\SS-StyleSync_Icon-x4-LightMode.png)  
 
 # Style Sync User Guide
 
