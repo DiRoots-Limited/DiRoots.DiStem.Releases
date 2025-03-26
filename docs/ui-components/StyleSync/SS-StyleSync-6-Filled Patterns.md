@@ -40,7 +40,7 @@ Instances (Count):** The number of instances of the pattern in the project.
 
 ##  Instructions
 
-![DiStem Style Sync - Sync Fill Patterns](../../../assets\images\StyleSync\DS_SS_FP_SyncFillPattern.gif)  
+![DiStem Style Sync - Sync Fill Patterns](../../../assets\images\StyleSync\DS_SS_FP_SyncFillPatterns.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 

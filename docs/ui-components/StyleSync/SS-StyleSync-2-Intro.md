@@ -52,7 +52,7 @@ You can customize the columns displayed by accessing the column settings. This a
 
 
 ###  Overall Search Bar
-Quickly find data across all tabs using the overall search bar.
+Quickly find data across all tabs using the overall search bar. Search bar remembers the last input even when you change tabs.
 
 ![DiStem Style Sync - Search Bar](../../../assets\images\StyleSync\DS_SS_General_SearchBar.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>

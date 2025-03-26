@@ -26,7 +26,11 @@ The default columns include:
 
 ### Additional Columns
 
-**You can include the following columns using the column settings to facilitate faster decision-making:**
+You can include the following columns using the column settings to facilitate faster decision-making:
+
+![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_MT_Columns.gif)  
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
 
 **Appearance Asset**
 
@@ -42,16 +46,13 @@ The default columns include:
 
 ##  Instructions
 
-![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\Revit_DS_SS_MaterialsChangingAndColumnsAvailable.gif)  
+![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_MT_SyncMaterials.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
-
 
 
 1. **Select a Material:** Use the checkbox to select a material from the list that needs to be changed.
 2. **Choose Replacement:** In the Replace With column, select the material that needs to be replicated.
 3. **Sync:** Click the Sync button to change multiple the materials within minutes.
-
-
 
 
 

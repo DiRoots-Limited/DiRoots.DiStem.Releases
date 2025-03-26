@@ -41,7 +41,7 @@ You can include the following columns using the column settings to facilitate fa
 
 ##  Instructions
 
-![DiStem Style Sync - Sync Families](../../../assets\images\StyleSync\DS_SS_FM_SyncFamsAndColumnsParamSettings.gif)  
+![DiStem Style Sync - Sync Families](../../../assets\images\StyleSync\DS_SS_FM_SyncFamilies.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 

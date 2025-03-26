@@ -16,7 +16,7 @@ The Filled Regions tab provides a comprehensive view of all filled regions used 
 
 The default columns include:
 
-![DiStem Style Sync - Line Styles UI](../../../assets\images\StyleSync\DS_SS_FR_UI.png)  
+![DiStem Style Sync - Filled Region UI](../../../assets\images\StyleSync\DS_SS_FR_UI.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -32,7 +32,7 @@ The default columns include:
 
 ##  Instructions
 
-![DiStem Style Sync - Sync Filled Regions](../../../assets\images\StyleSync\DS_SS_FR_SyncFilledRegion.gif)  
+![DiStem Style Sync - Sync Filled Regions](../../../assets\images\StyleSync\DS_SS_FR_SyncFilledRegions.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. **Find the Filled Region:** Use the search bar at the top or the filters in the column headers to locate the filled region that needs to be changed.
