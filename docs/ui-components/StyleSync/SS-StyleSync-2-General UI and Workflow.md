@@ -30,34 +30,33 @@ The selection in the DataGrid allows for actions to be applied to multiple rows.
 
 ![DiStem Style Sync - ContextMenu - Main](../../../assets\images\StyleSync\SS-ContextMenu-Main.png)
 
-- **Inspect** - Inspect the selected Styles
-- **Show Elements** - Shows elements that have the selected Styles applied
-- **Select Elements** - Selects elements that have the selected Styles applied
-- **Delete** - Deletes the selected Styles that are empty
-- **Expand all** - Expands all groups (visible only when grouping) 
-- **Collapse all** - Collapse all groups (visible only when grouping) 
+- **Inspect** - Show the inspector window with the selected styles.  
+- **Show Elements** - Shows all elements that use the selected styles.  
+- **Select Elements** - Selects all elements that use the selected styles.  
+- **Delete** - Deletes the selected styles that are not in use.  
+- **Expand All** - Expands all groups (visible only when grouping is applied).  
+- **Collapse All** - Collapses all groups (visible only when grouping is applied). 
 
 
 #### When right clicking on column headers you have the following context-menu:
 
 ![DiStem Style Sync - ContextMenu - Headers](../../../assets\images\StyleSync\SS-ContextMenu-Headers.png)
 
-- **Clear Sorting** - Clears the sorting on this column
-- **Clear Filtering** - Clear the filtering on this column
-- **Hide Column** - Hides this column
-- **Show All Columns** - Shows all columns that are available in the column settings
-- **Column Settings** - Opens the Column Settings window
-- **Stretch to Fill** - Changes the width of the column to fill all available space, the extra space is divided by all columns that are stretching and they grow and shrink with window size.
-- **Auto Fit** - Increases or Decreases the column width to match the size of the contents and header.
-- **Group by this Column** - Group the rows by this column - you can have several groups, order matters
-- **Clear Groups** - Clears all groups applied to the datagrid
+- **Clear Sorting** - Clears the sorting on this column.
+- **Clear Filtering** - Clear the filtering on this column.
+- **Hide Column** - Hides this column.
+- **Show All Columns** - Shows all hidden columns that are available in the column settings.
+- **Column Settings** - Opens the Column Settings window.
+- **Stretch to Fill** - Resizes this column to evenly fill available space. Columns marked for stretching grow and shrink with window resizing.  
+- **Auto Fit** - Resizes this column to match content and header size.  
+- **Group by this Column** - Groups rows by this column. Supports multi-level grouping by using the order of selecting this option. 
+- **Clear Groups** - Removes all grouping applied to the grid. 
 
 ###  Sorting
 
-Title Headers: 
-- **Click** - Sort the columns in ascending or descending order based on their values.
-
-- **Ctrl + Click** - Add an aditional sort on the clicked column.
+Column Headers: 
+- **Click** - Sorts in ascending or descending order, according to the values of this column 
+- **Ctrl + Click** - Adds a secondary sort on the data, according to the values of this column.
 
 ![DiStem Style Sync - General - Sorting](../../../assets\images\StyleSync\DS_SS_General_Sorting.GIF)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
