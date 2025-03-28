@@ -58,7 +58,7 @@ Column Headers:
 - **Click** - Sorts in ascending or descending order, according to the values of this column 
 - **Ctrl + Click** - Adds a secondary sort on the data, according to the values of this column.
 
-![DiStem Style Sync - General - Sorting](../../../assets\images\StyleSync\DS_SS_General_Sorting.GIF)  
+![DiStem Style Sync - General - Sorting](../../../assets\images\StyleSync\DS_SS_General_Sorting.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -71,17 +71,26 @@ Column Headers:
 - **Check List** - Allows manually filtering specific values, by checking/unchecking from a list of available values.
 
 
-![DiStem Style Sync - General - Filtering](../../../assets\images\StyleSync\DS_SS_General_Filtering.GIF)  
+![DiStem Style Sync - General - Filtering](../../../assets\images\StyleSync\DS_SS_General_Filtering.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
 ###  Column Settings
 You can customize the columns displayed by accessing the column settings. Use this window to easily show and hide columns, group/ungroup them and, if possible, open the **Add Parameters** window.
 
-####  Add Parameters
+![DiStem Style Sync - General Column Settings](../../../assets\images\StyleSync\DS_SS_General_ColumnSettings.GIF)
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+###  Add Parameters
 This window that is only available in the Dimension Styles or Families tab. It allows you to choose between all available parameters and add them as columns on the datagrid.
 
-![DiStem Style Sync - General Column Settings](../../../assets\images\StyleSync\DS_SS_General_ColumnSettingsGrouping.gif)
+![DiStem Style Sync - General Add Parameters](../../../assets\images\StyleSync\DS_SS_General_AddParameters.gif)
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+
+###  Column Grouping
+You can group the data shown as groups by using group by this column option by right clicking the column headers. Allowing you to focus on what changes are necessary.
+
+![DiStem Style Sync - General Column Grouping](../../../assets\images\StyleSync\DS_SS_General_ColumnGrouping.gif)
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 

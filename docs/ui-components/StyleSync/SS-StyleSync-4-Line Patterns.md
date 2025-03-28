@@ -16,7 +16,7 @@ The Line Patterns tab provides a comprehensive view of all line patterns used in
 
 The default columns include:
 
-![DiStem Style Sync - Line Styles UI](../../../assets\images\StyleSync\DS_SS_LP_UI.png)  
+![DiStem Style Sync - Line Patterns UI](../../../assets\images\StyleSync\DS_SS_LP_UI.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -26,7 +26,7 @@ The default columns include:
 
 ##  Instructions
 
-![DiStem Style Sync - Line Patterns](../../../assets\images\StyleSync\DS_SS_LP_SyncLinePatterns.gif)
+![DiStem Style Sync - Sync Line Patterns](../../../assets\images\StyleSync\DS_SS_LP_SyncLinePatterns.gif)
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 

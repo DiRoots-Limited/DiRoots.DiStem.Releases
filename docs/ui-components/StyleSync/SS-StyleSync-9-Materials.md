@@ -28,7 +28,7 @@ The default columns include:
 
 You can include the following columns using the column settings to facilitate faster decision-making:
 
-![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_MT_Columns.gif)  
+![DiStem Style Sync - Materials UI](../../../assets\images\StyleSync\DS_SS_MT_Columns.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -46,7 +46,7 @@ You can include the following columns using the column settings to facilitate fa
 
 ##  Instructions
 
-![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_MT_SyncMaterials.gif)  
+![DiStem Style Sync - Sync Materials](../../../assets\images\StyleSync\DS_SS_MT_SyncMaterials.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 

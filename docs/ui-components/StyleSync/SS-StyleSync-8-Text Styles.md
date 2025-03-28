@@ -16,7 +16,7 @@ The Text Styles tab provides a comprehensive view of all text elements in the pr
 
 The default columns include:
 
-![DiStem Style Sync - Sync Text Styles](../../../assets\images\StyleSync\DS_SS_TS_UI.png)  
+![DiStem Style Sync - Text Styles UI](../../../assets\images\StyleSync\DS_SS_TS_UI.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 **Font:** The font used for the text.
@@ -34,7 +34,7 @@ Picture
 
 ##  Instructions
 
-![DiStem Style Sync - General - Selection](../../../assets\images\StyleSync\DS_SS_TS_SyncTextStyles.gif)  
+![DiStem Style Sync - Sync Text Styles](../../../assets\images\StyleSync\DS_SS_TS_SyncTextStyles.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
