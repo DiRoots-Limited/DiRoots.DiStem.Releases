@@ -44,7 +44,7 @@ Each tab within the Style Sync feature contains a DataGrid displaying the styles
 After selecting the target styles and checking the ones to sync, users press the Sync button to update the styles of all elements. Users can then delete empty styles or use the Delete All button.
 
 
-![DiStem Style Sync - General - Tabs and Sync](../../../assets\images\StyleSync\DS_SS_GenTabsAndSync.gif)  
+![DiStem Style Sync - General - Tabs and Sync](../../../assets\images\StyleSync\DS_SS_General_TabsAndSync.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 

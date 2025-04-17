@@ -17,7 +17,7 @@ Users can quickly change families using Style Sync
 
 The default columns include:
 
-![DiStem Style Sync - Line Styles UI](../../../assets\images\StyleSync\DS_SS_FM_UI.png)  
+![DiStem Style Sync - Families UI](../../../assets\images\StyleSync\DS_SS_FM_UI.png)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
