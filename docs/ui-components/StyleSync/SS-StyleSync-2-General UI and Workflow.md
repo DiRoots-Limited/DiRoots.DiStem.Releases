@@ -58,7 +58,7 @@ Column Headers:
 - **Click** - Sorts in ascending or descending order, according to the values of this column 
 - **Ctrl + Click** - Adds a secondary sort on the data, according to the values of this column.
 
-![DiStem Style Sync - General - Sorting](../../../assets\images\StyleSync\DS_SS_General_Sorting.gif)  
+![DiStem Style Sync - General - Sorting](../../../assets\images\StyleSync\DS_SS_General_Sorting.GIF)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -71,14 +71,14 @@ Column Headers:
 - **Check List** - Allows manually filtering specific values, by checking/unchecking from a list of available values.
 
 
-![DiStem Style Sync - General - Filtering](../../../assets\images\StyleSync\DS_SS_General_Filtering.gif)  
+![DiStem Style Sync - General - Filtering](../../../assets\images\StyleSync\DS_SS_General_Filtering.GIF)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
 ###  Column Settings
 You can customize the columns displayed by accessing the column settings. Use this window to easily show and hide columns, group/ungroup them and, if possible, open the **Add Parameters** window.
 
-![DiStem Style Sync - General Column Settings](../../../assets\images\StyleSync\DS_SS_General_ColumnSettings.GIF)
+![DiStem Style Sync - General Column Settings](../../../assets\images\StyleSync\DS_SS_General_ColumnSettings.gif)
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ###  Add Parameters
