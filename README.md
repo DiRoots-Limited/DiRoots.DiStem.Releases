@@ -1,6 +1,6 @@
 # DiRoots.DiStem.Releases
 
-A single application bundle that includes 5 free Autodesk Revit Plugins to boost your productivity. 
+A single application bundle that includes several Autodesk Revit Plugins to boost your productivity. 
 DiRootsStem allows seamless interoperability between our plugins, opening doors to new workflows and ways for getting your job done faster and better.
 
 ### Included in DiRootsStem bundle
