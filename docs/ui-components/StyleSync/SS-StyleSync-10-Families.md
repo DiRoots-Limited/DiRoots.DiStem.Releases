@@ -10,8 +10,12 @@ nav_order: 10
 
 ##  Overview
 
-The Families tab displays only the families that are similar and can be modified quickly. This feature is designed to streamline the process of managing and updating families within your project.
-Users can quickly change families using Style Sync
+The Families tab displays allows you to replace families with other similar families.
+
+When replacing a family the types of the new family will be matched to the names of the existing family's types. If a matching type is not found a default will be chosen.
+
+By default only duplicate families are shown, which in the context of this tab means families whose name is contained in another family's name.
+
 
 ##  Default Columns
 
@@ -45,19 +49,22 @@ You can include the following columns using the column settings to facilitate fa
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
-1. **Select a Family:** Use the checkbox to select a family from the list that needs to be changed.
-2. **Choose Replacement:** In the Replace With column, select the family that needs to be replicated.
-3. **Sync:** Click the Sync button to change the Revit families instantly.
+1. **Choose Replacement:** In the Replace With column, select the family that you want to replace the current one. It will be automatically checked.
+1. **Sync:** Click the Sync button to change the Revit families instantly.
 
-### Note
+### Notes
 
-Please ensure that the selected families share the same hosting. This is crucial for maintaining consistency and avoiding errors during the synchronization process.
+- Only families of the same category are available in the Replace Width column.
+
+- The duplicates will be the first ones on the list
+
+- Please ensure that the selected families share the same placement type. This is crucial for avoiding errors during the synchronization process.
 
 ##  Additional Information
 
 **Column Settings:** You can customize the columns displayed by accessing the column settings. This allows you to tailor the view to your specific needs and preferences.
 
-**Filtering Options:** Use the filtering options to narrow down the list of families based on specific criteria, such as category or name.
+**Filtering Options:** Use the filtering options on each column to narrow down the list of families based on that column data.
 
 **Bulk Actions:** The Families tab supports bulk actions, enabling you to select and synchronize multiple families at once, further enhancing efficiency.
 
