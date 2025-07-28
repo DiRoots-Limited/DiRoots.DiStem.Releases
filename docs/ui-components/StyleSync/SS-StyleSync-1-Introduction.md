@@ -12,7 +12,7 @@ nav_order: 1
 
 The Style Sync feature in DiStem allows users to convert all instances of a specific style into another. This applies to line styles, fill patterns, dimension styles, text styles, materials, and families.
 
-The primary goal is to clean up undesired styles quickly without manually going into various Revit UIs while retaining the elements. These elements are remapped to the selected style, enabling the deletion of the non standard styles/families/patterns/materials.
+Its main goal is to help clean up undesired styles by identifying similar or duplicate definitions, showing exactly where those styles are used, guiding you through merging or deleting them, and removing any unused styles.
 
 
 ![DiStem Style Sync - General - Style Sync](../../../assets\images\StyleSync\DS_SS_OpeningStyleSync.gif)  
@@ -39,7 +39,7 @@ The primary goal is to clean up undesired styles quickly without manually going 
 
 ## Description
 
-Each tab within the Style Sync feature contains a DataGrid displaying the styles (or patterns, materials, or families) in the project, along with the number of instances and a ComboBox for selecting the target style. Some tabs include additional columns and specialized filters.
+Each tab within the Style Sync feature contains a table displaying the styles (or patterns, materials, or families) in the project, along with the number of instances and a dropdown for selecting the target style. Some tabs include additional columns and specialized filters.
 
 After selecting the target styles and checking the ones to sync, users press the Sync button to update the styles of all elements. Users can then delete empty styles or use the Delete All button.
 
@@ -47,6 +47,12 @@ After selecting the target styles and checking the ones to sync, users press the
 ![DiStem Style Sync - General - Tabs and Sync](../../../assets\images\StyleSync\DS_SS_General_TabsAndSync.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
+### Duplicate Style Detection
+
+A color bar is displayed at the left of every row; identical colors indicate styles detected as duplicates. Check `Show only duplicates` to filter the grid so that only duplicated styles are shown.
+
+![DiStem Style Sync - General - Tabs and Sync](../../../assets\images\StyleSync\DS_SS_Duplicates.gif)
+<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ## Style Inspector
 
