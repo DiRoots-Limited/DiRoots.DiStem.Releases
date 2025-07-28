@@ -8,11 +8,11 @@ DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your pr
 - glTF Exporter to quickly export your Autodesk Revit models to glTF file format.
 - CAD Manager plugin to show/hide and colorize CAD layers in the Revit model.
 - Project Standards to transfer multiple elements (e.g., Views, Sheets, View Templates, Doors, Windows) from one project to multiple projects in one go.
-- StyleSync (Coming Soon)
+- StyleSync to quickly clean up or merge undesired, unused, and duplicate styles. Supports line styles, line patterns, fill regions, fill patterns, dimensions, text styles, materials, and families.
 - more tools are coming soon.
 
 ### Supported Revit Versions
-2019, 2020, 2021, 2022, 2023, 2024, and 2025.
+2019, 2020, 2021, 2022, 2023, 2024, 2025 and 2026
 
 ### Useful links
 [User Guide](https://docs.distem.diroots.com/) 
