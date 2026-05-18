@@ -12,7 +12,7 @@ DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your pr
 - more tools are coming soon.
 
 ### Supported Revit Versions
-2019, 2020, 2021, 2022, 2023, 2024, 2025, and 2026.
+2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, and 2027.
 
 ### Useful links
 [User Guide](https://docs.distem.diroots.com/) 
