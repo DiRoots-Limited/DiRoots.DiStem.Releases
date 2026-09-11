@@ -1,7 +1,7 @@
 <!-- SHORT_DESCRIPTION_START -->
 Premium productivity bundle for Revit. Manage your BIM model data, clean up models, transfer project standards, measure distances, get element coordinates, export to glTF file format, and more.
 <!-- SHORT_DESCRIPTION_END -->
-DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your productivity. This bundle will help you to manage your BIM model data (extract and map elements’ properties and parameters), clean up the Revit model, remove revision clouds, transfer, measure distances in 2D & 3D views, get elements coordinates, and export to glTF.
+DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your productivity. This bundle will help you to manage your BIM model data (extract and map elements’ properties and parameters), clean up the Revit model, remove revision clouds, transfer data, measure distances in 2D & 3D views, get element coordinates, and export to glTF.
 
 ### Included in DiStem bundle
 - Properties Extraction Mapping to quickly extract hidden parameters and properties (e.g., Location – X, Y, Z Coordinates) from the model elements and inject them into existing or new instance shared parameters.
