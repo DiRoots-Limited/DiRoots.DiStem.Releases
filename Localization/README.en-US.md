@@ -18,7 +18,7 @@ DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your pr
 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, and 2027.
 
 ### Useful links
-[User Guide](https://docs.distem.diroots.com/) 
+[User Guide](https://docs.distem.diroots.com/)
 [Provide Feedback](https://diroots.com/contact-us/)
 [Custom Software Development](https://diroots.com/custom-software-development/)
 
