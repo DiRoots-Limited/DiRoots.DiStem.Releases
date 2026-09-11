@@ -12,7 +12,7 @@ DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your pr
 - CAD Manager plugin to show/hide and colorize CAD layers in the Revit model.
 - Project Standards to transfer multiple elements (e.g., Views, Sheets, View Templates, Doors, Windows) from one project to multiple projects in one go.
 - StyleSync to quickly clean up or merge undesired, unused, and duplicate styles. Supports line styles, line patterns, fill regions, fill patterns, dimensions, text styles, materials, and families.
-- more tools are coming soon.
+- More tools are coming soon.
 
 ### Supported Revit Versions
 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, and 2027.
