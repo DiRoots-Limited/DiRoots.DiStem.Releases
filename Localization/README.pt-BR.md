@@ -11,7 +11,7 @@ O pacote DiStem para Autodesk Revit contém vários complementos que aumentam su
 - glTF Exporter exporta rapidamente seus modelos do Autodesk Revit para o formato de arquivo glTF.
 - CAD Manager mostra, oculta e aplica cores às camadas CAD no modelo do Revit.
 - Project Standards transfere vários elementos (por exemplo, vistas, folhas, modelos de vista, portas e janelas) de um projeto para vários projetos de uma só vez.
-- StyleSync limpa ou mescla rapidamente estilos indesejados, não utilizados e duplicados. Compatível com estilos e padrões de linha, regiões e padrões de preenchimento, cotas, estilos de texto, materiais e famílias.
+- StyleSync limpa ou mescla rapidamente estilos indesejados, não utilizados e duplicados. É compatível com estilos de e padrões de linha, regiões e padrões de preenchimento, cotas, estilos de texto, materiais e famílias.
 - Mais ferramentas estarão disponíveis em breve.
 
 ### Versões compatíveis do Revit
