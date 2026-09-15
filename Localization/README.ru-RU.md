@@ -19,10 +19,10 @@
 
 ### Полезные ссылки
 [Руководство пользователя](https://docs.distem.diroots.com/)
-[Оставить отзыв](https://diroots.com/contact-us/)
-[Разработка программного обеспечения на заказ](https://diroots.com/custom-software-development/)
+[Оставить отзыв](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
+[Разработка программного обеспечения на заказ](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
-[DiRoots Limited](https://diroots.com/)
+[DiRoots Limited](https://diroots.com/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
 Адрес:
 R. da Marcha Gualtariana, 628
