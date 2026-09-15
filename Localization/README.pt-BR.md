@@ -19,10 +19,10 @@ O pacote DiStem para Autodesk Revit contém vários complementos que aumentam su
 
 ### Links úteis
 [Guia do usuário](https://docs.distem.diroots.com/)
-[Enviar feedback](https://diroots.com/contact-us/)
-[Desenvolvimento de software personalizado](https://diroots.com/custom-software-development/)
+[Enviar feedback](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
+[Desenvolvimento de software personalizado](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
-[DiRoots Limited](https://diroots.com/)
+[DiRoots Limited](https://diroots.com/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
 Endereço:
 R. da Marcha Gualtariana, 628
