@@ -19,10 +19,10 @@ La suite DiStem pour Autodesk Revit contient plusieurs extensions destinées à 
 
 ### Liens utiles
 [Guide de l'utilisateur](https://docs.distem.diroots.com/)
-[Donner votre avis](https://diroots.com/contact-us/)
-[Développement de logiciels sur mesure](https://diroots.com/custom-software-development/)
+[Donner votre avis](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
+[Développement de logiciels sur mesure](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
-[DiRoots Limited](https://diroots.com/)
+[DiRoots Limited](https://diroots.com/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
 Adresse :
 R. da Marcha Gualtariana, 628
