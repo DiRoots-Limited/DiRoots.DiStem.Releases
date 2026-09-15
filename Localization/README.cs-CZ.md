@@ -19,10 +19,10 @@ Balíček DiStem pro Autodesk Revit obsahuje několik doplňků, které zvyšuj�
 
 ### Užitečné odkazy
 [Uživatelská příručka](https://docs.distem.diroots.com/)
-[Poskytnout zpětnou vazbu](https://diroots.com/contact-us/)
-[Vývoj softwaru na míru](https://diroots.com/custom-software-development/)
+[Poskytnout zpětnou vazbu](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
+[Vývoj softwaru na míru](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
-[DiRoots Limited](https://diroots.com/)
+[DiRoots Limited](https://diroots.com/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem) 
 
 Adresa:
 R. da Marcha Gualtariana, 628
