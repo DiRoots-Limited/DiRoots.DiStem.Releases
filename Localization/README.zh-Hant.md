@@ -19,10 +19,10 @@
 
 ### 實用連結
 [使用者指南](https://docs.distem.diroots.com/)
-[提供意見回饋](https://diroots.com/contact-us/)
-[客製化軟體開發](https://diroots.com/custom-software-development/)
+[提供意見回饋](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
+[客製化軟體開發](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
-[DiRoots Limited](https://diroots.com/)
+[DiRoots Limited](https://diroots.com/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
 地址：
 R. da Marcha Gualtariana, 628
