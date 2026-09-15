@@ -19,10 +19,10 @@ Autodesk Revit용 DiStem 패키지에는 생산성을 높여 주는 여러 Revit
 
 ### 유용한 링크
 [사용자 가이드](https://docs.distem.diroots.com/)
-[피드백 제공](https://diroots.com/contact-us/)
-[맞춤형 소프트웨어 개발](https://diroots.com/custom-software-development/)
+[피드백 제공](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
+[맞춤형 소프트웨어 개발](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
-[DiRoots Limited](https://diroots.com/)
+[DiRoots Limited](https://diroots.com/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
 주소:
 R. da Marcha Gualtariana, 628
