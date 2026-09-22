@@ -1,3 +1,6 @@
+<!-- SHORT_DESCRIPTION_START -->
+Premium productivity bundle for Revit. Manage your BIM model data, clean up models, transfer project standards, measure distances, get element coordinates, export to glTF file format, and more.
+<!-- SHORT_DESCRIPTION_END -->
 DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your productivity. This bundle will help you to manage your BIM model data (extract and map elements’ properties and parameters), clean up the Revit model, remove revision clouds, transfer data, measure distances in 2D & 3D views, get element coordinates, and export to glTF.
 
 ### Included in DiStem bundle
@@ -16,10 +19,10 @@ DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your pr
 
 ### Useful links
 [User Guide](https://docs.distem.diroots.com/)
-[Provide Feedback](https://diroots.com/contact-us/)
-[Custom Software Development](https://diroots.com/custom-software-development/)
+[Provide Feedback](https://diroots.com/contact-us/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
+[Custom Software Development](https://diroots.com/custom-software-development/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem)
 
-[DiRoots Limited](https://diroots.com/) 
+[DiRoots Limited](https://diroots.com/?utm_source=DiRootsAppManager&utm_medium=App-Description&utm_campaign=DiStem) 
 
 Address:
 R. da Marcha Gualtariana, 628
