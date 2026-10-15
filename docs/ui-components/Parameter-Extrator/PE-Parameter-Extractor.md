@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Parameter Extrator
-parent: Parameter Extrator User Guide
+title: Parameter Extractor
+parent: Parameter Extractor User Guide
 nav_order: 1
 ---
 
-# Parameter Extrator
+# Parameter Extractor
 {: .no_toc }
-The Parameter Extrator tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.
+The Parameter Extractor tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.
 
 ## Core Features
 {: .no_toc }
 - Extract inaccessible properties/parameters from the model elements and inject them into new or existing instance shared parameters
 - Find the hidden properties/parameters in whole model, current view or current selection
 - Find the hidden properties/parameters by category/subcategory
-- Support properties/parameters: Location Points (Project Base Point, Revit Internal Origin, Survey Point), Connectors, GUID/UniqueID, Flipped face orientation, etc. This point will be explained in more detail in the next section.
+- Supported properties/parameters: Location Points (Project Base Point, Revit Internal Origin, Survey Point), Connectors, GUID/UniqueID, Flipped face orientation, etc. This point will be explained in more detail in the next section.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -45,17 +45,17 @@ This tool comes with a variety of features to help you to quickly select the pro
 
 ### Step by step 
 
-![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-StepbyStep.gif)  
+![DiStem Parameter Extractor - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-StepbyStep.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
-1. Click radio buttons to collect the elemnts from the Whole Model, Active View, or Current Selection. 
+1. Click radio buttons to collect the elements from the Whole Model, Active View, or Current Selection. 
 
 2. Use the checkboxes from the tree view to select specific categories/subcategories or use the checkbox in the table header to select all categories/subcategories.
 
 3. Use the checkboxes from the tree view to select specific properties/parameters to be mapped.
 
-4. Click on the  'Map and Extract' button to move to the 'Create Parameters' tab and start the mapping and extraction process.
+4. Click on the 'Map and Extract' button to move to the 'Create Parameters' tab and start the mapping and extraction process.
 
 ---
 
@@ -65,7 +65,7 @@ Use this tab to map and extract the properties/parameters into new or existing s
 
 ### Step by step
 
-![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-CreateParameters.gif)  
+![DiStem Parameter Extractor - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-CreateParameters.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -75,10 +75,10 @@ Use this tab to map and extract the properties/parameters into new or existing s
 
 3. Select the 'Group Under'. The default value is 'Other'.
 
-```yaml
-Remarks:
-By selecting text you can also set the units and rounding in the bottom-left of the window. 
-```
+   ```yaml
+   Remarks:
+   By selecting text you can also set the units and rounding in the bottom-left of the window. 
+   ```
 
 4. Select the destination parameter or create new parameter on the fly.
     * use the dropdown list to select any shared instance parameter available in the model.
@@ -114,8 +114,8 @@ Remarks:
 The 'Flipped Face Orientation', 'Flipped Hand Orientation', and 'Mirrored' properties are useful for objects like doors and windows for determining the handle/swing direction.
 ```
 
-- **Fabrication Parameters/Properties:** retrieves some common useful hidden parameters related to the dimensions of the fabrication part. Some examples, include:
-    - Diameter(Hanger Rod/Pipe etc.)
+- **Fabrication Parameters/Properties:** retrieves some common useful hidden parameters related to the dimensions of the fabrication part. Some examples include:
+    - Diameter (Hanger Rod/Pipe etc.)
     - Rod Extn 
     - Left/Right Extensions
     - And multiple other similar useful parameters.
@@ -130,24 +130,24 @@ The following settings are saved in the profiles.
 
 ### Create Profiles
 
-The profiles feature make it easy to save your settings and reuse them later. It is also a handy way for BIM Managers to create standard rules and share them across the organization.
+The profiles feature makes it easy to save your settings and reuse them later. It is also a handy way for BIM Managers to create standard rules and share them across the organization.
 
 Steps:
 
-![DiStem Parameter Extrator Creating profiles](../../../assets\images\ParameterExtractor\PE-Profile.gif)  
+![DiStem Parameter Extractor Creating profiles](../../../assets\images\ParameterExtractor\PE-Profile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
-2. Click on the text input and name the profile (give it a meaningful name because this is the name that will show up in the profiles list)
-3. Click on the save button to save profile.
+2. Click on the text input and name the profile (give it a meaningful name because this is the name that will show up in the profiles list).
+3. Click on the save button to save the profile.
 
 ### Import Profiles
 
-The profiles feature make it easy to import existing profiles (e.g., profiles from a shared location).
+The profiles feature makes it easy to import existing profiles (e.g., profiles from a shared location).
 
 Steps:
 
-![DiStem Parameter Extrator Importing profiles](../../../assets\images\ParameterExtractor\PE-ImportProfile.gif)  
+![DiStem Parameter Extractor Importing profiles](../../../assets\images\ParameterExtractor\PE-ImportProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -157,11 +157,11 @@ Steps:
 
 ### Export Profiles
 
-The profiles feature make it easy to export your current list of profiles.
+The profiles feature makes it easy to export your current list of profiles.
 
 Steps:
 
-![DiStem Parameter Extrator Exporting profiles](../../../assets\images\ParameterExtractor\PE-ExportProfile.gif)  
+![DiStem Parameter Extractor Exporting profiles](../../../assets\images\ParameterExtractor\PE-ExportProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -172,7 +172,7 @@ Steps:
 
 Steps:
 
-![DiStem Parameter Extrator Deleting profiles](../../../assets\images\ParameterExtractor\PE-DeleteProfile.gif)  
+![DiStem Parameter Extractor Deleting profiles](../../../assets\images\ParameterExtractor\PE-DeleteProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -181,6 +181,6 @@ Steps:
 
 ---
  
-If you want to find out more about Parameter Extrator and explore detailed tutorials on how to use it, visit our YouTube channel. There, you'll find a series of videos that can help answer questions and improve your knowledge. Be sure to check it out and subscribe to keep up to date with our news and tips!
+If you want to find out more about Parameter Extractor and explore detailed tutorials on how to use it, visit our YouTube channel. There, you'll find a series of videos that can help answer questions and improve your knowledge. Be sure to check it out and subscribe to keep up to date with our news and tips!
  
 [DiRoots Channel](https://www.youtube.com/@DiRootsNews){: .btn .btn-di-orange }
