@@ -14,7 +14,7 @@ The Parameter Extractor tool allows you to quickly extract hidden parameters and
 - Extract inaccessible properties/parameters from the model elements and inject them into new or existing instance shared parameters
 - Find the hidden properties/parameters in whole model, current view or current selection
 - Find the hidden properties/parameters by category/subcategory
-- Support properties/parameters: Location Points (Project Base Point, Revit Internal Origin, Survey Point), Connectors, GUID/UniqueID, Flipped face orientation, etc. This point will be explained in more detail in the next section.
+- Supported properties/parameters: Location Points (Project Base Point, Revit Internal Origin, Survey Point), Connectors, GUID/UniqueID, Flipped face orientation, etc. This point will be explained in more detail in the next section.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -49,13 +49,13 @@ This tool comes with a variety of features to help you to quickly select the pro
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
-1. Click radio buttons to collect the elemnts from the Whole Model, Active View, or Current Selection. 
+1. Click radio buttons to collect the elements from the Whole Model, Active View, or Current Selection. 
 
 2. Use the checkboxes from the tree view to select specific categories/subcategories or use the checkbox in the table header to select all categories/subcategories.
 
 3. Use the checkboxes from the tree view to select specific properties/parameters to be mapped.
 
-4. Click on the  'Map and Extract' button to move to the 'Create Parameters' tab and start the mapping and extraction process.
+4. Click on the 'Map and Extract' button to move to the 'Create Parameters' tab and start the mapping and extraction process.
 
 ---
 
@@ -114,8 +114,8 @@ Remarks:
 The 'Flipped Face Orientation', 'Flipped Hand Orientation', and 'Mirrored' properties are useful for objects like doors and windows for determining the handle/swing direction.
 ```
 
-- **Fabrication Parameters/Properties:** retrieves some common useful hidden parameters related to the dimensions of the fabrication part. Some examples, include:
-    - Diameter(Hanger Rod/Pipe etc.)
+- **Fabrication Parameters/Properties:** retrieves some common useful hidden parameters related to the dimensions of the fabrication part. Some examples include:
+    - Diameter (Hanger Rod/Pipe etc.)
     - Rod Extn 
     - Left/Right Extensions
     - And multiple other similar useful parameters.
@@ -130,7 +130,7 @@ The following settings are saved in the profiles.
 
 ### Create Profiles
 
-The profiles feature make it easy to save your settings and reuse them later. It is also a handy way for BIM Managers to create standard rules and share them across the organization.
+The profiles feature makes it easy to save your settings and reuse them later. It is also a handy way for BIM Managers to create standard rules and share them across the organization.
 
 Steps:
 
@@ -138,12 +138,12 @@ Steps:
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
-2. Click on the text input and name the profile (give it a meaningful name because this is the name that will show up in the profiles list)
-3. Click on the save button to save profile.
+2. Click on the text input and name the profile (give it a meaningful name because this is the name that will show up in the profiles list).
+3. Click on the save button to save the profile.
 
 ### Import Profiles
 
-The profiles feature make it easy to import existing profiles (e.g., profiles from a shared location).
+The profiles feature makes it easy to import existing profiles (e.g., profiles from a shared location).
 
 Steps:
 
@@ -157,7 +157,7 @@ Steps:
 
 ### Export Profiles
 
-The profiles feature make it easy to export your current list of profiles.
+The profiles feature makes it easy to export your current list of profiles.
 
 Steps:
 
