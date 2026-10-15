@@ -75,10 +75,10 @@ Use this tab to map and extract the properties/parameters into new or existing s
 
 3. Select the 'Group Under'. The default value is 'Other'.
 
-```yaml
-Remarks:
-By selecting text you can also set the units and rounding in the bottom-left of the window. 
-```
+   ```yaml
+   Remarks:
+   By selecting text you can also set the units and rounding in the bottom-left of the window. 
+   ```
 
 4. Select the destination parameter or create new parameter on the fly.
     * use the dropdown list to select any shared instance parameter available in the model.
