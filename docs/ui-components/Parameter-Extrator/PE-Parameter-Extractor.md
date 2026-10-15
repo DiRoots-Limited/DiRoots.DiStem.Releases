@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Parameter Extrator
-parent: Parameter Extrator User Guide
+title: Parameter Extractor
+parent: Parameter Extractor User Guide
 nav_order: 1
 ---
 
-# Parameter Extrator
+# Parameter Extractor
 {: .no_toc }
-The Parameter Extrator tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.
+The Parameter Extractor tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.
 
 ## Core Features
 {: .no_toc }
@@ -45,7 +45,7 @@ This tool comes with a variety of features to help you to quickly select the pro
 
 ### Step by step 
 
-![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-StepbyStep.gif)  
+![DiStem Parameter Extractor - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-StepbyStep.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -65,7 +65,7 @@ Use this tab to map and extract the properties/parameters into new or existing s
 
 ### Step by step
 
-![DiStem Parameter Extrator - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-CreateParameters.gif)  
+![DiStem Parameter Extractor - Selecting Categories and Properties/Parameters to map and extract](../../../assets\images\ParameterExtractor\PE-CreateParameters.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 
@@ -134,7 +134,7 @@ The profiles feature make it easy to save your settings and reuse them later. It
 
 Steps:
 
-![DiStem Parameter Extrator Creating profiles](../../../assets\images\ParameterExtractor\PE-Profile.gif)  
+![DiStem Parameter Extractor Creating profiles](../../../assets\images\ParameterExtractor\PE-Profile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -147,7 +147,7 @@ The profiles feature make it easy to import existing profiles (e.g., profiles fr
 
 Steps:
 
-![DiStem Parameter Extrator Importing profiles](../../../assets\images\ParameterExtractor\PE-ImportProfile.gif)  
+![DiStem Parameter Extractor Importing profiles](../../../assets\images\ParameterExtractor\PE-ImportProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -161,7 +161,7 @@ The profiles feature make it easy to export your current list of profiles.
 
 Steps:
 
-![DiStem Parameter Extrator Exporting profiles](../../../assets\images\ParameterExtractor\PE-ExportProfile.gif)  
+![DiStem Parameter Extractor Exporting profiles](../../../assets\images\ParameterExtractor\PE-ExportProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -172,7 +172,7 @@ Steps:
 
 Steps:
 
-![DiStem Parameter Extrator Deleting profiles](../../../assets\images\ParameterExtractor\PE-DeleteProfile.gif)  
+![DiStem Parameter Extractor Deleting profiles](../../../assets\images\ParameterExtractor\PE-DeleteProfile.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 1. Click on the top-right dropdown to open the profiles list.
@@ -181,6 +181,6 @@ Steps:
 
 ---
  
-If you want to find out more about Parameter Extrator and explore detailed tutorials on how to use it, visit our YouTube channel. There, you'll find a series of videos that can help answer questions and improve your knowledge. Be sure to check it out and subscribe to keep up to date with our news and tips!
+If you want to find out more about Parameter Extractor and explore detailed tutorials on how to use it, visit our YouTube channel. There, you'll find a series of videos that can help answer questions and improve your knowledge. Be sure to check it out and subscribe to keep up to date with our news and tips!
  
 [DiRoots Channel](https://www.youtube.com/@DiRootsNews){: .btn .btn-di-orange }

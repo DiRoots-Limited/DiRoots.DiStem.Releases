@@ -14,7 +14,7 @@ DiStem bundle for Autodesk Revit contains several to Revit add-ins to boost your
 
 ## Included Autodesk Revit Plugins
 
-- Parameter Extrator
+- Parameter Extractor
 - Model Cleanup
 - Revision Remover
 - 3D Ruler
