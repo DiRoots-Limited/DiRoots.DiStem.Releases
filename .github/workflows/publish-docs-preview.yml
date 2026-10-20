@@ -207,14 +207,16 @@ jobs:
             git -C gh-pages add -A -- "$target"
             if ! git -C gh-pages diff --cached --quiet; then
               git -C gh-pages commit -m "docs: remove preview for PR #${PR_NUMBER}"
+              pushed=false
               for attempt in {1..5}; do
                 if git -C gh-pages push origin HEAD:gh-pages; then
+                  pushed=true
                   break
                 fi
                 git -C gh-pages fetch origin gh-pages
                 git -C gh-pages rebase origin/gh-pages
               done
-              if ! git -C gh-pages merge-base --is-ancestor HEAD origin/gh-pages; then
+              if [[ "$pushed" != true ]]; then
                 echo "Could not publish cleanup after five branch-update retries."
                 exit 1
               fi
