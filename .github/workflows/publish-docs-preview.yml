@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     concurrency:
       group: docs-preview-${{ github.event.workflow_run.pull_requests[0].number || github.event.pull_request.number }}
-      cancel-in-progress: false
+      cancel-in-progress: true
     permissions:
       actions: read
       contents: write
@@ -181,7 +181,7 @@ jobs:
     runs-on: ubuntu-latest
     concurrency:
       group: docs-preview-${{ github.event.pull_request.number }}
-      cancel-in-progress: false
+      cancel-in-progress: true
     permissions:
       contents: write
       issues: write
