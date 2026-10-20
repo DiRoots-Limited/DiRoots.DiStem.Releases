@@ -27,8 +27,7 @@ jobs:
     permissions:
       actions: read
       contents: read
-      issues: write
-      pull-requests: read
+      pull-requests: write
     steps:
       - name: Confirm the build still matches an open PR head
         id: candidate
@@ -198,8 +197,7 @@ jobs:
       cancel-in-progress: true
     permissions:
       contents: read
-      issues: write
-      pull-requests: read
+      pull-requests: write
     steps:
       - name: Create scoped publisher token
         id: publisher-token
