@@ -1,5 +1,7 @@
 name: Publish docs PR preview
 
+# This workflow must exist on both master and gh-pages: workflow_run reads it from
+# the default branch (master), while pull_request_target reads it from the PR base (gh-pages).
 on:
   workflow_run:
     workflows: [Build docs PR preview]
@@ -126,7 +128,7 @@ jobs:
           PREVIEW_SHA: ${{ steps.candidate.outputs.sha }}
         run: |
           set -euo pipefail
-          url="https://badocs.diroots.com/previews/pr-${PR_NUMBER}/preview-info.json?sha=${PREVIEW_SHA}"
+          url="https://docs.distem.diroots.com/previews/pr-${PR_NUMBER}/preview-info.json?sha=${PREVIEW_SHA}"
           deadline=$((SECONDS + 600))
           while (( SECONDS < deadline )); do
             body="$(curl --fail --silent --show-error --max-time 15 "$url" 2>/dev/null || true)"
@@ -148,7 +150,7 @@ jobs:
           script: |
             const prNumber = Number(process.env.PR_NUMBER);
             const marker = '<!-- distem-docs-preview -->';
-            const url = `https://badocs.diroots.com/previews/pr-${prNumber}/`;
+            const url = `https://docs.distem.diroots.com/previews/pr-${prNumber}/`;
             const body = `Documentation preview: [open the PR preview](${url})\n\nBuilt from commit \`${process.env.PREVIEW_SHA}\`.\n\n${marker}`;
             const comments = await github.paginate(github.rest.issues.listComments, {
               owner: context.repo.owner,
