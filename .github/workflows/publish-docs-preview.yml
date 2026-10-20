@@ -64,7 +64,7 @@ jobs:
         id: publisher-token
         uses: actions/create-github-app-token@v3
         with:
-          client-id: ${{ vars.DOCS_PREVIEW_APP_ID }}
+          app-id: ${{ vars.DOCS_PREVIEW_APP_ID }}
           private-key: ${{ secrets.DOCS_PREVIEW_APP_PRIVATE_KEY }}
           owner: DiRoots-Limited
           repositories: DiRoots.DiStem.Releases
@@ -205,7 +205,7 @@ jobs:
         id: publisher-token
         uses: actions/create-github-app-token@v3
         with:
-          client-id: ${{ vars.DOCS_PREVIEW_APP_ID }}
+          app-id: ${{ vars.DOCS_PREVIEW_APP_ID }}
           private-key: ${{ secrets.DOCS_PREVIEW_APP_PRIVATE_KEY }}
           owner: DiRoots-Limited
           repositories: DiRoots.DiStem.Releases
