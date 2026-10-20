@@ -17,12 +17,10 @@ jobs:
   publish:
     if: >-
       github.event_name == 'workflow_run' &&
-      github.event.workflow_run.conclusion == 'success' &&
-      github.event.workflow_run.pull_requests[0].base.ref == 'gh-pages' &&
-      github.event.workflow_run.pull_requests[0].head.repo.full_name == github.repository
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     concurrency:
-      group: docs-preview-${{ github.event.workflow_run.pull_requests[0].number || github.event.pull_request.number }}
+      group: docs-preview-${{ github.event.workflow_run.head_branch || github.event.pull_request.number }}
       cancel-in-progress: true
     permissions:
       actions: read
@@ -36,9 +34,18 @@ jobs:
         with:
           script: |
             const run = context.payload.workflow_run;
-            const candidate = run.pull_requests?.find(pr =>
+            const { data: candidates } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              head: `${context.repo.owner}:${run.head_branch}`,
+              base: 'gh-pages',
+              per_page: 100,
+            });
+            const candidate = candidates.find(pr =>
               pr.base.ref === 'gh-pages' &&
-              pr.head.repo?.full_name === `${context.repo.owner}/${context.repo.repo}`
+              pr.head.repo?.full_name === `${context.repo.owner}/${context.repo.repo}` &&
+              pr.head.sha === run.head_sha
             );
             if (!candidate) {
               core.setOutput('publish', 'false');
@@ -50,7 +57,7 @@ jobs:
               repo: context.repo.repo,
               pull_number: candidate.number,
             });
-            if (pr.state !== 'open' || pr.head.sha !== candidate.head.sha) {
+            if (pr.state !== 'open' || pr.head.sha !== run.head_sha) {
               core.setOutput('publish', 'false');
               return;
             }
