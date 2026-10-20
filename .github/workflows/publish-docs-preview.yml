@@ -63,6 +63,7 @@ jobs:
         with:
           ref: gh-pages
           path: gh-pages
+          fetch-depth: 0
 
       - name: Download the build artifact from this workflow run
         if: steps.candidate.outputs.publish == 'true'
@@ -191,6 +192,7 @@ jobs:
         with:
           ref: gh-pages
           path: gh-pages
+          fetch-depth: 0
 
       - name: Remove the closed PR preview
         shell: bash
