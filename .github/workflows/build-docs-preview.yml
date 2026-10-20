@@ -1,5 +1,6 @@
 name: Build docs PR preview
 
+# The trusted master-branch publisher resolves this PR from the run's branch and head SHA.
 on:
   pull_request:
     branches: [gh-pages]
