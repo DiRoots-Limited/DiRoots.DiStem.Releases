@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Filled Regions
-parent: Style Sync User Guide
+parent: Style Sync
 nav_order: 5
 
 ---
 
-# Filled Regions Documentation
+# Filled Regions
+{: #filled-regions-documentation }
 
-##  Overview
 
 The Filled Regions tab provides a comprehensive view of all filled regions used in the project. This feature is designed to streamline the process of managing and updating filled regions within your project.
+{: #overview .fs-6 .fw-300 }
 
 ##  Default Columns
 

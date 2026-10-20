@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Line Styles
-parent: Style Sync User Guide
+parent: Style Sync
 nav_order: 3
 ---
 
 
-# Line Styles Documentation
+# Line Styles
+{: #line-styles-documentation }
 
-##  Overview
 
 The Line Styles tab provides a comprehensive view of all line styles used in the project. This feature is designed to streamline the process of managing and updating line styles within your project.
+{: #overview .fs-6 .fw-300 }
 
 ##  Default Columns
 

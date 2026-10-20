@@ -8,10 +8,6 @@ nav_order: 2
 {: .no_toc }
 
 You can try DiStem for free during 15 days. To buy licenses for DiStem please contact our [Sales Team](mailto:sales@diroots.com). 
-
-Not permitted:
--	Sell/resell
--	make modifications to the software.
 {: .fs-6 .fw-300 }
 
 ## Table of contents

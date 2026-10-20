@@ -399,3 +399,12 @@ FodyWeavers.xsd
 
 # Claude Code
 .claude/
+
+# Local Jekyll preview and dependencies
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/bundle/
+.local-preview/

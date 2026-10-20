@@ -1,14 +1,8 @@
 ---
-layout: default
-title: Model Cleanup User Guide
-nav_order: 4
-has_children: true
+layout: redirect
+title: Model Cleanup (redirect)
 permalink: /docs/ModelCleanup-user-guide
+nav_exclude: true
+search_exclude: true
+redirect_to: /docs/ui-components/Model-Cleanup/MC-Model-Cleanup.html
 ---
-
-![DiStem Model Cleanup - Batch delete Views, Schedules, Sheets, View Templates, Filters, Links, Imports and Images from your Revit Models](../../../assets/images/ModelCleanup/Model-Cleanup-Ribbon-Icon_x150.png) 
-
-# Model Cleanup User Guide
-
-Learn how to use Model Cleanup to speed up your drawing production.
-{: .fs-6 .fw-300 }

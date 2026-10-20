@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Text Styles
-parent: Style Sync User Guide
+parent: Style Sync
 nav_order: 8
 
 ---
 
-# Text Styles Documentation
+# Text Styles
+{: #text-styles-documentation }
 
-##  Overview
 
 The Text Styles tab provides a comprehensive view of all text elements in the project, including their font, text sizes, leader arrowheads, and width factor. This feature is designed to streamline the process of managing and updating text styles within your project.
+{: #overview .fs-6 .fw-300 }
 
 ##  Default Columns
 

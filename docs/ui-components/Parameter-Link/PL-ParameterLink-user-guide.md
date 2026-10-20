@@ -1,14 +1,8 @@
 ---
-layout: default
-title: Parameter Link User Guide
-nav_order: 11
-has_children: true
+layout: redirect
+title: Parameter Link (redirect)
 permalink: /docs/ParameterLink-user-guide
+nav_exclude: true
+search_exclude: true
+redirect_to: /docs/ui-components/Parameter-Link/PL-Parameter-Link.html
 ---
-
-![DiStem Parameter Link - Easily create links between Instance/Type parameters.](../../../assets\images\ParameterLink\ParameterLinkIcon.png) 
-
-# Parameter Link User Guide
-
-Learn how to use Parameter Link to speed up your drawing production.
-{: .fs-6 .fw-300 }

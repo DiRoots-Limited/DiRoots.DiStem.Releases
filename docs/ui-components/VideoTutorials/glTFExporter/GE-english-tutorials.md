@@ -1,12 +1,12 @@
 ---
 layout: default
-title: English | Video Tutorials
-parent: glTF Exporter
-grand_parent: Video Tutorials
-nav_order: 1
+title: glTF Exporter
+parent: Video Tutorials
+nav_order: 4
 ---
 
-# glTF Exporter tutorials and demo videos in English.
+# glTF Exporter
+{: #gltf-exporter-tutorials-and-demo-videos-in-english }
 If you have created content about glTF Exporter and you want to see it featured here, drop us an email at info@diroots.com.
 {: .no_toc }
 

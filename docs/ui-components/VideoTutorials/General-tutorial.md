@@ -1,11 +1,12 @@
 ---
 layout: default
-title: General | English | Video Tutorials
+title: DiStem Overview
 parent: Video Tutorials
 nav_order: 1
 ---
 
-# DiStem tutorials and demo videos in English.
+# DiStem Overview
+{: #distem-tutorials-and-demo-videos-in-english }
 If you have created content about DiStem and you want to see it featured here, drop us an email at info@diroots.com
 {: .no_toc }
 

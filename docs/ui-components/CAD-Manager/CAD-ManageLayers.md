@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Manage Layers
-parent: CAD Manager User Guide
-nav_order: 1
+title: CAD Manager
+nav_order: 9
+has_children: true
+nav_self_title: Manage Layers
 ---
 
 # Manage Layers
 {: .no_toc }
 The Manage Layers allows you to easily control the visibility and colors of the DWG layers. 
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

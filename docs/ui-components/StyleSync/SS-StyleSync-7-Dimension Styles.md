@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Dimension Styles
-parent: Style Sync User Guide
+parent: Style Sync
 nav_order: 7
 
 ---
 
-# Dimension Styles Documentation
+# Dimension Styles
+{: #dimension-styles-documentation }
 
-##  Overview
 
 The Dimension Styles tab provides a comprehensive view of all dimension styles used in the project. This feature is designed to streamline the process of managing and updating dimension styles within your project.
+{: #overview .fs-6 .fw-300 }
 
 ##  Default Columns
 
