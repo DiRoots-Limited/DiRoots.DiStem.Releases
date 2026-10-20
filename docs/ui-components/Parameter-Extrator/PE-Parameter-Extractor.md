@@ -1,13 +1,22 @@
 ---
 layout: default
-title: Parameter Extrator
-parent: Parameter Extrator User Guide
-nav_order: 1
+title: Parameter Extractor
+nav_order: 4
+nav_sections:
+  - title: "‘Select Parameters’ tab"
+    anchor: select-parameters-tab
+  - title: "‘Create Parameters’ tab"
+    anchor: create-parameters-tab
+  - title: "Supported Properties/Parameters"
+    anchor: supported-propertiesparameters
+  - title: "Profiles"
+    anchor: profiles
 ---
 
 # Parameter Extrator
 {: .no_toc }
 The Parameter Extrator tool allows you to quickly extract hidden parameters and properties (e.g., Location - X,Y,Z Coordinates) from the model and inject them into existing or new instance parameters.
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

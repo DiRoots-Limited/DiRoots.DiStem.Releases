@@ -1,12 +1,12 @@
 ---
 layout: default
-title: English | Video Tutorials
-parent: Parameter Link
-grand_parent: Video Tutorials
-nav_order: 1
+title: Parameter Link
+parent: Video Tutorials
+nav_order: 2
 ---
 
-# Parameter Link tutorials and demo videos in English.
+# Parameter Link
+{: #parameter-link-tutorials-and-demo-videos-in-english }
 If you have created content about Parameter Link and you want to see it featured here, drop us an email at info@diroots.com.
 {: .no_toc }
 

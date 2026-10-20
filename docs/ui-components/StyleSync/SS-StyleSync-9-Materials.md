@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Materials
-parent: Style Sync User Guide
+parent: Style Sync
 nav_order: 9
 
 ---
 
-# Materials Documentation
+# Materials
+{: #materials-documentation }
 
-##  Overview
 
 The Materials tab allows for quick modification of materials used in the project or family. This feature is designed to streamline the process of managing and updating materials within your project.
+{: #overview .fs-6 .fw-300 }
 
 ##  Default Columns
 

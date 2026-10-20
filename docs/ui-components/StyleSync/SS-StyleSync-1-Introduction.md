@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Introduction
-parent: Style Sync User Guide
-nav_order: 1
+title: Style Sync
+nav_order: 10
+has_children: true
 ---
 
 
-# Documentation: Style Sync Feature in DiStem
+# Style Sync
+{: #documentation-style-sync-feature-in-distem }
 
-## Introduction
 
 The Style Sync feature in DiStem allows users to convert all instances of a specific style into another. This applies to line styles, fill patterns, dimension styles, text styles, materials, and families.
+{: #introduction .fs-6 .fw-300 }
 
 Its main goal is to help clean up undesired styles by identifying similar or duplicate definitions, showing exactly where those styles are used, guiding you through merging or deleting them, and removing any unused styles.
 

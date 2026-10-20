@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Line Patterns
-parent: Style Sync User Guide
+parent: Style Sync
 nav_order: 4
 
 ---
 
-# Line Patterns Documentation
+# Line Patterns
+{: #line-patterns-documentation }
 
-##  Overview
 
 The Line Patterns tab provides a comprehensive view of all line patterns used in the project. These line patterns are integral to the line styles within the project, ensuring consistency and clarity.
+{: #overview .fs-6 .fw-300 }
 
 ##  Default Columns
 

@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Settings
-parent: Family Thumbnail User Guide
-nav_order: 1
+title: Family Thumbnail
+nav_order: 12
+has_children: true
 ---
 
 # Family Thumbnail
 {: .no_toc }
 The Family Thumbnail allows you to create thumbnails/preview images of multiple RFA files in a snap. You can also choose the perspectives, display style, and detail level to create the most eye-cathing previews. Plus, hide elements that clutter your visual representation for a crisp, clean look.
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

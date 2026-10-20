@@ -1,14 +1,8 @@
 ---
-layout: default
-title: glTF Exporter User Guide
-nav_order: 7
-has_children: true
+layout: redirect
+title: glTF Exporter (redirect)
 permalink: /docs/glTFExporter-user-guide
+nav_exclude: true
+search_exclude: true
+redirect_to: /docs/ui-components/glTF-Exporter/GE-gltTF-Exporter.html
 ---
-
-![DiStem glTF Exporter - From Autodesk Revit to glTF.](../../../assets/images/glTFExporter/glTF-Exporter-logo_x150.png)  
-
-# glTF Exporter User Guide
-
-Learn how to use glTF Exporter to speed up your drawing production.
-{: .fs-6 .fw-300 }

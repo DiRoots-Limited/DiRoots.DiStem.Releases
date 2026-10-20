@@ -400,3 +400,12 @@ FodyWeavers.xsd
 /assets/images/PS-Excel-Report.mp4
 /assets/images/PS-create-profiles.mp4
 /assets/images/GIFs/ProSheets-Paper-Size-Orientation.mp4
+
+# Local Jekyll preview and dependencies
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/bundle/
+.local-preview/

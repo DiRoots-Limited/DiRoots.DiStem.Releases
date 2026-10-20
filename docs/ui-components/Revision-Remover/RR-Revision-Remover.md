@@ -1,13 +1,16 @@
 ---
 layout: default
 title: Revision Remover
-parent: Revision Remover User Guide
-nav_order: 1
+nav_order: 6
+nav_sections:
+  - title: "Select and delete the Revision Clouds"
+    anchor: select-and-delete-the-revision-clouds
 ---
 
 # Revision Remover
 {: .no_toc }
 The Revision Remover Tool allows you to quickly batch remove revision clouds from your Autodesk Revit model.
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

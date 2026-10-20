@@ -1,13 +1,20 @@
 ---
 layout: default
 title: Project Standards
-parent: Project Standards User Guide
-nav_order: 1
+nav_order: 11
+nav_sections:
+  - title: "Choose elements to Standards"
+    anchor: choose-elements-to-standards
+  - title: "Modify"
+    anchor: modify
+  - title: "Standards"
+    anchor: standards
 ---
 
 # Project Standards
 {: .no_toc }
 The Project Standards allows you to Standards multiple elements (e.g., Views, Sheets, View Templates, Doors, Windows) from one project to multiple projects in one go.
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

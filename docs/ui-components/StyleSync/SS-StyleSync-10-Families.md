@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Families
-parent: Style Sync User Guide
+parent: Style Sync
 nav_order: 10
 
 ---
 
-# Families Documentation
+# Families
+{: #families-documentation }
 
-##  Overview
 
 The Families tab displays allows you to replace families with other similar families.
+{: #overview .fs-6 .fw-300 }
 
 When replacing a family the types of the new family will be matched to the names of the existing family's types. If a matching type is not found a default will be chosen.
 

@@ -1,13 +1,14 @@
 ---
 layout: default
 title: CAD Tracing
-parent: CAD Manager User Guide
+parent: CAD Manager
 nav_order: 2
 ---
 
 # CAD Tracing
 {: .no_toc }
 CAD Tracing allows you to convert the Layers or Element Types of the imported DWG into Revit elements, such as Legend or Drafting View.
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

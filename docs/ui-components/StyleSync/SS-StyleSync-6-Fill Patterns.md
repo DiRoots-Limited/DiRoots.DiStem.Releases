@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Filled Patterns
-parent: Style Sync User Guide
+parent: Style Sync
 nav_order: 6
 
 ---
 
-# Fill Patterns Documentation
+# Fill Patterns
+{: #fill-patterns-documentation }
 
-##  Overview
 
 The Fill Patterns tab provides a comprehensive view of all Fill Patterns used in the project. This feature is designed to streamline the process of managing and updating Fill Patterns within your project.
+{: #overview .fs-6 .fw-300 }
 
 ##  Default Columns
 

@@ -104,11 +104,15 @@ layout: table_wrappers
         {% if page.parent %}
           {%- for node in pages_list -%}
             {%- if node.parent == nil -%}
-              {%- if page.parent == node.title or page.grand_parent == node.title -%}
+              {%- assign direct_parent = false -%}
+              {%- if page.parent == node.title and page.grand_parent == nil -%}
+                {%- assign direct_parent = true -%}
+              {%- endif -%}
+              {%- if direct_parent or page.grand_parent == node.title -%}
                 {%- assign first_level_url = node.url | absolute_url -%}
               {%- endif -%}
               {%- if node.has_children -%}
-                {%- assign children_list = pages_list | where: "parent", node.title -%}
+                {%- assign children_list = pages_list | where: "parent", node.title | where: "grand_parent", nil -%}
                 {%- for child in children_list -%}
                   {%- if page.url == child.url or page.parent == child.title -%}
                     {%- assign second_level_url = child.url | absolute_url -%}

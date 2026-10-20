@@ -1,13 +1,26 @@
 ---
 layout: default
 title: Parameter Link
-parent: Parameter Link User Guide
-nav_order: 1
+nav_order: 13
+nav_sections:
+  - title: "Add Link"
+    anchor: add-link
+  - title: "Delete Link"
+    anchor: delete-link
+  - title: "Duplicate Link"
+    anchor: duplicate-link
+  - title: "Edit Link"
+    anchor: edit-link
+  - title: "Apply Link"
+    anchor: apply-link
+  - title: "Profiles"
+    anchor: profiles
 ---
 
 # Parameter Link
 {: .no_toc }
 Parameter Link allows you to create links between parameters, whether Type or Instance, in elements filtered by Disciplines and Categories. 
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

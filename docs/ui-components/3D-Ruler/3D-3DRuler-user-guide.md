@@ -1,14 +1,8 @@
 ---
-layout: default
-title: 3D Ruler User Guide
-nav_order: 6
-has_children: true
+layout: redirect
+title: 3D Ruler (redirect)
 permalink: /docs/3DRuler-user-guide
+nav_exclude: true
+search_exclude: true
+redirect_to: /docs/ui-components/3D-Ruler/3D-3D-Ruler.html
 ---
-
-![DiStem 3D Ruler - Measure in 2D and 3D inside Autodesk Revit.](../../../assets/images/2D3DMeasure/2D-3D-Measure-Revit-Ribbon-Icon_x150.png)  
-
-# 3D Ruler User Guide
-
-Learn how to use 3D Ruler to speed up your drawing production.
-{: .fs-6 .fw-300 }

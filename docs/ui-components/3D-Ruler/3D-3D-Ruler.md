@@ -1,13 +1,24 @@
 ---
 layout: default
 title: 3D Ruler
-parent: 3D Ruler User Guide
-nav_order: 1
+nav_order: 7
+nav_sections:
+  - title: "Measure the distance between 2 points"
+    anchor: measure-the-distance-between-2-points
+  - title: "Measure the length of an edge"
+    anchor: measure-the-length-of-an-edge
+  - title: "Get XYZ coordinates from a single point"
+    anchor: get-xyz-coordinates-from-a-single-point
+  - title: "Copy the results to the clipboard"
+    anchor: copy-the-results-to-the-clipboard
+  - title: "Export the results to Microsoft Excel"
+    anchor: export-the-results-to-microsoft-excel
 ---
 
 # 3D Ruler
 {: .no_toc }
 The 3D Ruler is an Autodesk Revit plugin that allows you to measure in a 2D and 3D views between 2 points or get XYZ coordinates from a single point.
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

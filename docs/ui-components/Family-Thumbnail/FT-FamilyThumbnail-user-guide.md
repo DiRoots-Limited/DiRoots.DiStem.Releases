@@ -1,14 +1,8 @@
 ---
-layout: default
-title: Family Thumbnail User Guide
-nav_order: 10
-has_children: true
+layout: redirect
+title: Family Thumbnail (redirect)
 permalink: /docs/FamilyThumbnail-user-guide
+nav_exclude: true
+search_exclude: true
+redirect_to: /docs/ui-components/Family-Thumbnail/FT-Settings.html
 ---
-
-![DiStem Family Thumbnail - Effortlessly create thumbnails/preview images of multiple RFA files in a snap](../../../assets\images\Family-thumbnail\thumbnail-logo.png)  
-
-# Family Thumbnail User Guide
-
-Learn how to use Family Thumbnail to speed up your drawing production.
-{: .fs-6 .fw-300 }

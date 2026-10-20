@@ -1,13 +1,20 @@
 ---
 layout: default
 title: glTF Exporter
-parent: glTF Exporter User Guide
-nav_order: 1
+nav_order: 8
+nav_sections:
+  - title: "Export to glTF"
+    anchor: export-to-gltf
+  - title: "Advanced Configuration"
+    anchor: advanced-configuration
+  - title: "Viewing the 3D Model in the default Windows 3D Viewer"
+    anchor: viewing-the-3d-model-in-the-default-windows-3d-viewer
 ---
 
 # glTF Exporter
 {: .no_toc }
 The glTF Exporter is an Autodesk Revit plugin that allows you to export your Autodesk Revit models to glTF file format.
+{: .fs-6 .fw-300 }
 
 ## Core Features
 {: .no_toc }

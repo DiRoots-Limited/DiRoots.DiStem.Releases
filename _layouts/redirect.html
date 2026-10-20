@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>{{ page.title | escape }}</title>
+    <link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+    <script>
+      window.location.replace({{ page.redirect_to | relative_url | jsonify }} + window.location.search + window.location.hash);
+    </script>
+  </head>
+  <body>
+    <p>This guide has moved. <a id="guide-link" href="{{ page.redirect_to | relative_url }}">Open {{ page.title | remove: ' (redirect)' | escape }}</a>.</p>
+  </body>
+</html>

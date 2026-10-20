@@ -1,5 +1,12 @@
 remote_theme: just-the-docs/just-the-docs
 
+# Keep local preview artifacts and installed gems out of builds and file watching.
+exclude:
+  - .local-preview
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/diroots-main-logo.png "
 
