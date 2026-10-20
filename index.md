@@ -10,12 +10,12 @@ permalink: /
 
 # DiStem | Autodesk Revit Plugin.
 
-DiStem bundle for Autodesk Revit contains several to Revit add-ins to boost your productivity. This bundle will help you to manage your BIM model data (parameters, links and imports, etc.), clean up the model, transfer project standards, measure distances, get elements coordinates, and export to glTF file format. 
+DiStem bundle for Autodesk Revit contains several Revit add-ins to boost your productivity. This bundle will help you to manage your BIM model data (parameters, links and imports, etc.), clean up the model, transfer project standards, measure distances, get elements coordinates, and export to glTF file format. 
 {: .fs-6 .fw-300 }
 
 ## Included Autodesk Revit Plugins
 
-- Parameter Extrator
+- Parameter Extractor
 - Model Cleanup
 - Revision Remover
 - 3D Ruler
