@@ -37,9 +37,8 @@ The default columns include:
 4. **Select Patterns:** Check the boxes for the patterns you need to change.
 5. **Sync:** Click the Sync button at the bottom to change all selected line patterns to the chosen line pattern within seconds.
 
-###  Note
-
-Please ensure that the selected line patterns are compatible with the project requirements to avoid any inconsistencies.
+Select line patterns that are compatible with your project requirements to avoid unexpected changes.
+{: .note }
 
 ##  Additional Information
 

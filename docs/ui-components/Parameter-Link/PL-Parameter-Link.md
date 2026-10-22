@@ -68,11 +68,8 @@ In the firts table, choose the Source Parameters and use the arrows or double-cl
 - Add Cutom Field and Custom Separator to compose the values of the linked parameters.
 - Active the default Field Separator to add between the parameter values.
 
-```yaml
-#Note:
-- User are able to select multiple Source Parameters.
-- Note that a preview of the composition of the parameter values is shown below the table of selected parameters.
-```
+You can select multiple source parameters. A preview of the composed parameter values appears below the selected-parameters table.
+{: .note }
 
 ![Source Parameter](../../../assets\images\ParameterLink\PL-SourceParameter.gif)  
 <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
@@ -81,10 +78,8 @@ In the firts table, choose the Source Parameters and use the arrows or double-cl
 
 Select the target Parameter to link to. You can use the searchbar to find the Parameter you want.
 
-```yaml
-#Note:
-User are able to select only one Target Parameter.
-```
+You can select only one target parameter.
+{: .note }
 
 All done, now click OK to finish creating the Parameter Link.
 

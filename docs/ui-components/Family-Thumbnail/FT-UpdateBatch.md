@@ -37,11 +37,8 @@ Click to update families in batches.
 
 3. Select the Output Location.
 
-   ```yaml
-   #Note:
-   Select the checkbox to Save updated families in the same source location (backups will be kept).
-   When you select this option, you do not need to enter a location path.
-   ```
+   Select **Save updated families in the same source location** to keep backups there. When this option is selected, a separate output path is not required.
+   {: .note }
 4. Click on the Update button to start exporting the families.
 
    ![Family Thumbnail - update in batch](../../../assets\images\Family-thumbnail\FT-Uc-Batch.gif)<br />

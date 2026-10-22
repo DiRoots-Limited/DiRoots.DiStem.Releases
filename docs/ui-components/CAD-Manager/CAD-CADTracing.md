@@ -32,10 +32,7 @@ This first drop-down list shows the list of DWGs imported into the project.
 ![DiStem CAD Tracing - choose imported DWG](../../../assets\images\CADManager\CT-CADLink.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
-```yaml
-# Note:
-When creating the view, make sure you have selected the layers you want to create. If no layers are selected, the views will be created blank.
-```
+
 
 ### Sort list by
 
@@ -85,11 +82,8 @@ Finally, to complete the mapping, let's create a new view.
 ![DiStem CAD Tracing - new or existing view](../../../assets\images\CADManager\CT-View.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
-```yaml
-# Note:
-- If the user chooses to create a new view, they must enter a name for the view in the field below.
-- If the user chooses to overlay an existing view, they must select the view they want to overlay.
-```
+Choose either **Create a new view** and enter a name, or **Overlay an existing view** and select the view.
+{: .note }
 
 ### Create
 
@@ -98,10 +92,8 @@ Select the layers and click on the “Create” button to execute the mapping an
 ![DiStem CAD Tracing - create](../../../assets\images\CADManager\CT-Create.gif)  
 <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
-```yaml
-# Note:
-When creating the view, make sure you have selected the layers you want to create. If no layers are selected, the views will be created blank.
-```
+If no layers are selected, the view will be blank.
+{: .warning }
 
 ---
 
