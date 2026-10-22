@@ -40,8 +40,8 @@ Make sure you have more than one project open to Standards elements between them
 
 3. Select the target models.
 
-![DiStem Project Standards - Standards elements steps](../../../assets\images\ProjectStandard\DS-SelectElements.gif)  
-<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+   ![DiStem Project Standards - Standards elements steps](../../../assets\images\ProjectStandard\DS-SelectElements.gif)<br />
+   <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ## Modify
 
@@ -49,23 +49,23 @@ Before Standards the elements, click to modify.
 
 1. In the first field, enter an element name to find Next or All.
 
-![DiStem Project Standards - Find elements](../../../assets\images\ProjectStandard\DS-Find.gif)  
-<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+   ![DiStem Project Standards - Find elements](../../../assets\images\ProjectStandard\DS-Find.gif)<br />
+   <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 2. Now enter a name to replace the Next or All current element data. For example, find all doors and replace it for DOOR.
 
-![DiStem Project Standards - replace](../../../assets\images\ProjectStandard\DS-Replace.gif)  
-<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+   ![DiStem Project Standards - replace](../../../assets\images\ProjectStandard\DS-Replace.gif)<br />
+   <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 3. Add Prefix and Suffix to the elements name.
 
-![DiStem Project Standards - add prefix and suffix](../../../assets\images\ProjectStandard\DS-PrefixSuffix.gif)  
-<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+   ![DiStem Project Standards - add prefix and suffix](../../../assets\images\ProjectStandard\DS-PrefixSuffix.gif)<br />
+   <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 4. Edit the element names using the options to set upper case, lower case or proper case.
 
-![DiStem Project Standards - edit elements name](../../../assets\images\ProjectStandard\DS-Edit.gif)  
-<sub>Note: the version on the image may not reflect the latest version of the application.</sub>
+   ![DiStem Project Standards - edit elements name](../../../assets\images\ProjectStandard\DS-Edit.gif)<br />
+   <sub>Note: the version on the image may not reflect the latest version of the application.</sub>
 
 ### Reset
 
