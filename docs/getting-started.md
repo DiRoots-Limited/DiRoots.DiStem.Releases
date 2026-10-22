@@ -7,7 +7,7 @@ nav_order: 2
 # Getting Started
 {: .no_toc }
 
-Try DiStem free for 15 days. To purchase a license, contact our [sales team](mailto:sales@diroots.com). 
+Try DiStem free for 15 days. To purchase a license, contact our [sales team](mailto:sales@diroots.com).
 {: .fs-6 .fw-300 }
 
 ## Table of contents
