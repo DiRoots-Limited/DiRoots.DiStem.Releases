@@ -57,7 +57,7 @@ Only families in the same category are available in the **Replace With** column.
 {: .note }
 
 Duplicate families appear first in the list.
-{: .new }
+{: .tip }
 
 Select families with the same placement type to avoid synchronization errors.
 {: .warning }

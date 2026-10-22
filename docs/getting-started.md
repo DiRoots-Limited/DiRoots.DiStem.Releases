@@ -115,10 +115,10 @@ The updater will:
 The updater checks for updates every two days by default. You can change the frequency and download folder.
 
 By default, update checks cannot be disabled in the updater settings. To check less often, set the frequency to 365 days.
-{: .new }
+{: .tip }
 
 **Pro Tip for IT administrators:** To change how often DiStem checks for updates across the machine, edit `%ProgramData%\DiStem\Settings\updater.ini`. Change `CheckFrequency=2` to `CheckFrequency=365`.
-{: .new }
+{: .tip }
 
 We recommend keeping DiStem up to date. Support is not provided for outdated versions.
 {: .important }
