@@ -847,7 +847,7 @@
   },"141": {
     "doc": "Getting Started",
     "title": "Updates",
-    "content": "This app includes an updater to help you keep it up to date. The updater will: . | notify you whenever a new version is released (the action is triggered on Revit close event). | ask you to install now or to remind you tomorrow. | . Updater Settings . The updater checks for updates every two days by default. You can change the frequency and download folder. By default, update checks cannot be disabled in the updater settings. To check less often, set the frequency to 365 days. Pro Tip for IT administrators: To change how often DiStem checks for updates across the machine, edit %ProgramData%\\DiRoots.DiStem\\Settings\\updater.ini. Change CheckFrequency=2 to CheckFrequency=365. We recommend keeping DiStem up to date. Support is not provided for outdated versions. ",
+    "content": "This app includes an updater to help you keep it up to date. The updater will: . | notify you whenever a new version is released (the action is triggered on Revit close event). | ask you to install now or to remind you tomorrow. | . Updater Settings . The updater checks for updates every two days by default. You can change the frequency and download folder. By default, update checks cannot be disabled in the updater settings. To check less often, set the frequency to 365 days. Pro Tip for IT administrators: To change how often DiStem checks for updates across the machine, edit %ProgramData%\\DiStem\\Settings\\updater.ini. Change CheckFrequency=2 to CheckFrequency=365. We recommend keeping DiStem up to date. Support is not provided for outdated versions. ",
     "url": "/previews/pr-30/docs/getting-started.html#updates",
     "relUrl": "/docs/getting-started.html#updates"
   },"142": {
