@@ -31,21 +31,18 @@ The Family Thumbnail allows you to create thumbnails/preview images of multiple 
 Click to update families in batches.
 
 1. Source Families
-First, select whether you want to Load from folder or Update opened families.
+   First, select whether you want to Load from folder or Update opened families.
 
 2. If you choose to Load from folder, select the location of the source folder.
 
 3. Select the Output Location.
 
-```yaml
-#Note:
-Select the checkbox to Save updated families in the same source location (backups will be kept).
-When you select this option, you do not need to enter a location path.
-```
-Click on the Update button to start exporting the families.
+   Select **Save updated families in the same source location** to keep backups there. When this option is selected, a separate output path is not required.
+   {: .note }
+4. Click on the Update button to start exporting the families.
 
-![Family Thumbnail - update in batch](../../../assets\images\Family-thumbnail\FT-Uc-Batch.gif)  
-<sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
+   ![Family Thumbnail - update in batch](../../../assets\images\Family-thumbnail\FT-Uc-Batch.gif)<br />
+   <sub>Note: the version on the image may not reflect the [latest version](https://diroots.com/revit-plugins/distem-bundle-for-autodesk-revit/).</sub>
  
 ---
  

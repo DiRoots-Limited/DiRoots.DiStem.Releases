@@ -7,7 +7,7 @@ nav_order: 2
 # Getting Started
 {: .no_toc }
 
-You can try DiStem for free during 15 days. To buy licenses for DiStem please contact our [Sales Team](mailto:sales@diroots.com). 
+Try DiStem free for 15 days. To purchase a license, contact our [sales team](mailto:sales@diroots.com).
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -26,23 +26,18 @@ Download the [latest version of DiStem](https://diroots.com/revit-plugins/distem
 ## Install
 
 ### Compatibility
-- Windows 7, 8, 10 and 11.
-- Revit 2020, 2021, 2022 and 2023.
+- Revit 2019–2027.
+- Use a Windows version supported by your Revit release. See [Autodesk's system requirements](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/System-requirements-for-Autodesk-Revit-products.html).
 
 ### Prerequisites
 - Admin permissions.
 
-```yaml
-# Remarks
-- the installation is done per-machine
-- %ProgramData%\Autodesk\Revit\Addins\
-```
+DiStem is installed for all users on the machine. Its add-in files are stored in `%ProgramData%\Autodesk\Revit\Addins\`.
+{: .note }
 
 ### Standard Installation
 
-```yaml
-This method is ideal for individuals with admin permissions who want to install the app in one computer.
-```
+This method is intended for users with administrator permissions who want to install DiStem on one computer.
 
 1. Close Revit.
 
@@ -50,38 +45,33 @@ This method is ideal for individuals with admin permissions who want to install 
 
 3. Select the Revit versions and click 'Install'.
 
-![ProSheets Installation First Step](../assets/images/GIFs/PS-Install-Step-1.gif)
+   ![DiStem installer with Revit versions selected](../assets/images/GIFs/PS-Install-Step-1.gif)
 
 4. Wait for the installation to complete and click 'Finish'.
 
-![ProSheets Installation Finish](../assets/images/PS-Installer-Finished.png)
+   ![DiStem installer completion screen](../assets/images/PS-Installer-Finished.png)
 
 ### Silent Installation
 
-```yaml
-This method is ideal for IT administrators who want to deploy the app to multiple computers.
-```
+This method is intended for IT administrators who want to deploy DiStem to multiple computers.
 
 - Install for all compatible Revit versions.
 
-```yaml
-# This method will silently install ProSheets for all compatible Revit versions.
-<installer-name>.exe /i // /qn accept_eula=1
-```
+  ```cmd
+  <installer-name>.exe /i // /qn accept_eula=1
+  ```
 
-- Disable automatic check for update (i.e., users won't be prompt to install updates).
+- Disable automatic update checks during installation.
 
-```yaml
-# In this example DiRootsOne will NOT be installed for Revit 2017, 2018, and 2019.
-<installer-name>.exe /i // /qn accept_eula=1 UPDATER="FALSE"
-```
+  ```cmd
+  <installer-name>.exe /i // /qn accept_eula=1 UPDATER="FALSE"
+  ```
 
 - Exclude specific Revit versions.
 
-```yaml
-# In this example ProSheets will NOT be installed for Revit 2017, 2018, and 2019.
-<installer-name>.exe /i // /qn accept_eula=1 revit2017="" revit2018="" revit2019=""
-```
+  ```cmd
+  <installer-name>.exe /i // /qn accept_eula=1 revit2019=""
+  ```
 
 ## Uninstall
 
@@ -91,17 +81,15 @@ This method is ideal for IT administrators who want to deploy the app to multipl
 
 2. Select and click 'Remove'.
 
-![ProSheets Uninstall](../assets/images/GIFs/PS-Uninstall.gif)
+   ![DiStem installer removal screen](../assets/images/GIFs/PS-Uninstall.gif)
 
-3. Wait for the uninstallation to complete and click 'Finish'. 
-
+3. Wait for the uninstallation to complete, then click 'Finish'.
 
 ### Using the installer silently
 
 Uninstall the app without user interaction.
 
-```yaml
-# This command will remove the app from your computer.
+```cmd
 <installer-name>.exe /x // /qn
 ```
 
@@ -120,31 +108,17 @@ The updater will:
 - notify you whenever a new version is released (the action is triggered on Revit close event).
 - ask you to install now or to remind you tomorrow.
 
-![ProSheets Updater UI](../assets/images/updater-default.png)
+![DiStem updater settings](../assets/images/updater-default.png)
 
 ### Updater Settings
 
-The following Update Options can be tweaked:
-- activate automatic updates.
-- check for updates frequency (the default value is 2 days). 
-- change the downloads folder.
+The updater checks for updates every two days by default. You can change the frequency and download folder.
 
-```yaml
-# Pro Tip for Users
-By default the automatic updates can't be disabled.
-To go around it, you can set up the check for updates frequency to 365 days, for example.
-# Keep in mind that it' recommended to keep your apps updated. Plus, we do not provide support for outdated applications.
-```
+By default, update checks cannot be disabled in the updater settings. To check less often, set the frequency to 365 days.
+{: .tip }
 
-```yaml
-# Pro Tip for IT Administrators
-By default the automatic updates can't be disabled.
-To go around it, there's a configuration file that can be tweaked.
+**Pro Tip for IT administrators:** To change how often DiStem checks for updates across the machine, edit `%ProgramData%\DiStem\Settings\updater.ini`. Change `CheckFrequency=2` to `CheckFrequency=365`.
+{: .tip }
 
-# Steps required
-- go to %programdata%\<app-name>\Settings
-- open the 'updater.ini' file
-- Search for the line 'CheckFrequency=2' and change the value to 365, for example.
-
-# Keep in mind that it' recommended to keep your apps updated. Plus, we do not provide support for outdated applications.
-```
+We recommend keeping DiStem up to date. Support is not provided for outdated versions.
+{: .important }

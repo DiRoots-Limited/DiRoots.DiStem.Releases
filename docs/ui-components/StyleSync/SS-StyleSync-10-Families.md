@@ -10,7 +10,7 @@ nav_order: 10
 {: #families-documentation }
 
 
-The Families tab displays allows you to replace families with other similar families.
+The Families tab lets you replace families with similar families.
 {: #overview .fs-6 .fw-300 }
 
 When replacing a family the types of the new family will be matched to the names of the existing family's types. If a matching type is not found a default will be chosen.
@@ -51,15 +51,16 @@ You can include the following columns using the column settings to facilitate fa
 
 
 1. **Choose Replacement:** In the Replace With column, select the family that you want to replace the current one. It will be automatically checked.
-1. **Sync:** Click the Sync button to change the Revit families instantly.
+2. **Sync:** Click the Sync button to update the selected Revit families.
 
-### Notes
+Only families in the same category are available in the **Replace With** column.
+{: .note }
 
-- Only families of the same category are available in the Replace Width column.
+Duplicate families appear first in the list.
+{: .tip }
 
-- The duplicates will be the first ones on the list
-
-- Please ensure that the selected families share the same placement type. This is crucial for avoiding errors during the synchronization process.
+Select families with the same placement type to avoid synchronization errors.
+{: .warning }
 
 ##  Additional Information
 

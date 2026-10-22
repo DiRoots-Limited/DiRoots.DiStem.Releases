@@ -86,10 +86,8 @@ Use this tab to map and extract the properties/parameters into new or existing s
 
 3. Select the 'Group Under'. The default value is 'Other'.
 
-   ```yaml
-   Remarks:
-   By selecting text you can also set the units and rounding in the bottom-left of the window. 
-   ```
+   Selecting a text property also lets you set units and rounding in the bottom-left of the window.
+   {: .note }
 
 4. Select the destination parameter or create new parameter on the fly.
     * use the dropdown list to select any shared instance parameter available in the model.
@@ -105,10 +103,8 @@ Properties/parameters available:
     - **Point-based Family Instance:** retrieves the location point coordinates (XYZ), which is also the insertion point of the family.
     - **Line-based Family Instance:** retrieves the location point coordinates from specific points in the insertion line of a family instance like pipes, etc.
 
-```yaml
-Remarks:
-The 'Bounding Box Coordinates' property returns a bounding box parallel to the cardinal coordinate axes in a project space. So, it does not correspond to the element’s coordinate system and is not necessarily the smallest circumscribing box possible, as the smallest box is not necessarily aligned with the cardinal axes.
-```
+The **Bounding Box Coordinates** property returns a box aligned with the project's cardinal axes. It may not align with the element's coordinate system or be the smallest box that encloses the element.
+{: .note }
 
 - **Connectors:** retrieves the location point coordinates for the connectors associated with the model elements.
 
@@ -120,10 +116,8 @@ The 'Bounding Box Coordinates' property returns a bounding box parallel to the c
     - **Mirrored:** returns a yes/no value as per the mirror status of the family. 
     - **Flipped Orientation:** returns a yes/no value as per the orientation status of the wall. 
 
-```yaml
-Remarks:
-The 'Flipped Face Orientation', 'Flipped Hand Orientation', and 'Mirrored' properties are useful for objects like doors and windows for determining the handle/swing direction.
-```
+The **Flipped Face Orientation**, **Flipped Hand Orientation**, and **Mirrored** properties can help determine door and window handle or swing direction.
+{: .note }
 
 - **Fabrication Parameters/Properties:** retrieves some common useful hidden parameters related to the dimensions of the fabrication part. Some examples include:
     - Diameter (Hanger Rod/Pipe etc.)
